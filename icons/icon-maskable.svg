@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e2544"/>
+      <stop offset="1" stop-color="#14172b"/>
+    </linearGradient>
+    <linearGradient id="needleN" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff5f3d"/>
+      <stop offset="1" stop-color="#cc785c"/>
+    </linearGradient>
+    <linearGradient id="needleS" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d4f6f"/>
+      <stop offset="1" stop-color="#2a3550"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background fills entire canvas (maskable requirement) -->
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- Shrink logo group to 78% around center for safe zone -->
+  <g transform="translate(256 256) scale(0.78) translate(-256 -256)">
+    <!-- Outer ring -->
+    <circle cx="256" cy="256" r="196" fill="none" stroke="#cc785c" stroke-width="10" opacity="0.85"/>
+    <circle cx="256" cy="256" r="180" fill="none" stroke="#cc785c" stroke-width="3" opacity="0.35"/>
+
+    <!-- Cardinal ticks -->
+    <g stroke="#cc785c" stroke-width="6" stroke-linecap="round">
+      <line x1="256" y1="48"  x2="256" y2="78"/>
+      <line x1="256" y1="434" x2="256" y2="464"/>
+      <line x1="48"  y1="256" x2="78"  y2="256"/>
+      <line x1="434" y1="256" x2="464" y2="256"/>
+    </g>
+    <g stroke="#cc785c" stroke-width="3" stroke-linecap="round" opacity="0.55">
+      <line x1="109" y1="109" x2="131" y2="131"/>
+      <line x1="403" y1="109" x2="381" y2="131"/>
+      <line x1="109" y1="403" x2="131" y2="381"/>
+      <line x1="403" y1="403" x2="381" y2="381"/>
+    </g>
+
+    <g filter="url(#glow)">
+      <polygon points="256,80 226,256 256,232 286,256" fill="url(#needleN)"/>
+    </g>
+    <polygon points="256,432 226,256 256,280 286,256" fill="url(#needleS)"/>
+    <polygon points="80,256 256,226 232,256 256,286" fill="#cc785c" opacity="0.75"/>
+    <polygon points="432,256 256,226 280,256 256,286" fill="#cc785c" opacity="0.75"/>
+
+    <circle cx="256" cy="256" r="38" fill="#1e2544" stroke="#cc785c" stroke-width="4"/>
+    <path d="M256 232 L261 244 L272 240 L268 252 L280 256 L268 262 L273 275 L261 272 L256 285 L251 272 L239 275 L244 262 L232 256 L244 252 L240 240 L251 244 Z"
+          fill="#ff5f3d"/>
+  </g>
+</svg>

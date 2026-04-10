@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tssa-do-fs-072-06",
+    "title": "Mandatory Inspection of Natural Draft Boilers — CO Safety Check",
+    "document_number": "FS-072-06 R8",
+    "date": "2012-09",
+    "summary": "TSSA legally requires heating contractors to perform a CO safety check on all natural gas/propane natural draft boilers equipped with a draft control device whenever a technician enters the home. CO alarms must be located near sleeping quarters. Non-compliance can result in fuel supply termination.",
+    "related_clauses": ["8.9", "8.12", "8.23", "8.6", "4.13"],
+    "code_standard": "B149.1-25",
+    "severity": "enforcement_change",
+    "tssa_url": ""
+  },
+  {
+    "id": "tssa-do-fs-195-12",
+    "title": "Prohibition — Majestic/Insta-Flame Direct Vent Free Standing Fireplaces",
+    "document_number": "FS-195-12 R1",
+    "date": "2016-03-25",
+    "summary": "Majestic Fireplace models FSDV22, FSDV30, FSDV32, D222, and D232 series (brands: Majestic, InstaFlame, Union, Irving) are banned from sale, lease, rental, installation, or use in Ontario. Fuel supply must be terminated immediately due to delayed ignition risk causing glass expulsion into living space. No retrofit available — manufacturer defunct since 2008.",
+    "related_clauses": ["4.5.2", "4.5.5", "4.2.1"],
+    "code_standard": "B149.1-25",
+    "severity": "immediate_hazard",
+    "tssa_url": ""
+  },
+  {
+    "id": "tssa-advisory-fs-101-07",
+    "title": "Plastic Vents — ULC S636 Certification Requirement",
+    "document_number": "FS-101-07 R1",
+    "date": "2014-04-07",
+    "summary": "All plastic vents must be certified to ULC S636 for new and replacement installations (B149.1 Clause 8.9.6). When replacing an appliance, existing ABS plastic venting must be completely replaced with S636-certified venting. Variance process available when full replacement is impractical — requires visual inspection, pressure test, and first 5 feet replaced with S636 vent.",
+    "related_clauses": ["8.9.6", "8.9.5", "8.18"],
+    "code_standard": "B149.1-25",
+    "severity": "enforcement_change",
+    "tssa_url": ""
+  }
+]

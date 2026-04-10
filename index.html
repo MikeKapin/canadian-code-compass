@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#1a1a2e">
+  <meta name="description" content="Canadian Code Compass — Quick CSA B149.1 & B149.2 code clause lookup for licensed gas technicians">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Code Compass">
+  <title>Canadian Code Compass</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-180.png">
+  <link rel="mask-icon" href="icons/icon.svg" color="#cc785c">
+  <link rel="stylesheet" href="styles/main.css">
+  <!-- Fuse.js for fuzzy search -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <!-- DOMPurify for safe HTML rendering -->
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-content">
+        <div class="brand">
+          <h1 class="brand-title">Canadian Code Compass</h1>
+          <span class="brand-subtitle">CSA B149 Quick Reference</span>
+        </div>
+        <div class="header-actions">
+          <button id="install-btn" class="install-btn hidden" aria-label="Install app" title="Install to home screen">
+            <span class="install-icon">⬇</span>
+            <span class="install-label">Install</span>
+          </button>
+          <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme" title="Toggle dark/light mode">
+            <span class="theme-icon">☀️</span>
+          </button>
+          <span id="offline-badge" class="offline-badge hidden">Offline</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Search Section -->
+    <main class="main-content">
+      <!-- Mode Tabs -->
+      <nav class="mode-tabs" role="tablist">
+        <button class="mode-tab active" data-mode="scenario" role="tab" aria-selected="true">
+          <span class="tab-icon">🔍</span>
+          <span class="tab-label">Describe Problem</span>
+        </button>
+        <button class="mode-tab" data-mode="keyword" role="tab" aria-selected="false">
+          <span class="tab-icon">📋</span>
+          <span class="tab-label">Search Keywords</span>
+        </button>
+        <button class="mode-tab" data-mode="browse" role="tab" aria-selected="false">
+          <span class="tab-icon">📖</span>
+          <span class="tab-label">Browse Sections</span>
+        </button>
+      </nav>
+
+      <!-- Search Input -->
+      <div class="search-container">
+        <div class="search-wrapper">
+          <input
+            type="search"
+            id="search-input"
+            class="search-input"
+            placeholder="Describe what you found wrong..."
+            autocomplete="off"
+            autofocus
+          >
+          <button id="clear-search" class="clear-btn hidden" aria-label="Clear search">✕</button>
+        </div>
+        <p id="search-hint" class="search-hint">e.g., "furnace too close to wood framing" or "no shutoff valve"</p>
+      </div>
+
+      <!-- Code Standard Filter -->
+      <div class="filter-bar">
+        <button class="filter-btn active" data-filter="all">All Codes</button>
+        <button class="filter-btn" data-filter="b149-1">B149.1 Natural Gas</button>
+        <button class="filter-btn" data-filter="b149-2">B149.2 Propane</button>
+      </div>
+
+      <!-- Results Area -->
+      <div id="results-area" class="results-area">
+        <!-- Results rendered by JS -->
+      </div>
+
+      <!-- Section Browser (hidden by default) -->
+      <div id="section-browser" class="section-browser hidden">
+        <!-- Section tree rendered by JS -->
+      </div>
+
+      <!-- TSSA Bulletins Section -->
+      <div id="bulletins-section" class="bulletins-section">
+        <button id="bulletins-toggle" class="bulletins-toggle">
+          <span>⚠️ TSSA Bulletins & Director's Orders</span>
+          <span class="toggle-arrow">▼</span>
+        </button>
+        <div id="bulletins-list" class="bulletins-list hidden">
+          <!-- Bulletins rendered by JS -->
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Built by Michael Kapin — Personal reference tool for licensed technicians</p>
+      <p class="footer-note">Not affiliated with CSA, TSSA, or Fanshawe College. Plain-language summaries only.</p>
+    </footer>
+
+    <!-- iOS install instructions modal (shown only on iOS Safari) -->
+    <div id="ios-install-modal" class="ios-install-modal hidden" role="dialog" aria-labelledby="ios-install-title">
+      <div class="ios-install-content">
+        <button id="ios-install-close" class="ios-install-close" aria-label="Close">✕</button>
+        <h2 id="ios-install-title">Install Code Compass</h2>
+        <p>Add Code Compass to your home screen for one-tap access and offline use.</p>
+        <ol class="ios-install-steps">
+          <li>Tap the <strong>Share</strong> button <span class="ios-share-icon">⎙</span> at the bottom of Safari</li>
+          <li>Scroll down and tap <strong>Add to Home Screen</strong></li>
+          <li>Tap <strong>Add</strong> in the top right</li>
+        </ol>
+        <p class="ios-install-note">Works fully offline after install.</p>
+      </div>
+    </div>
+
+    <!-- Toast notification for clipboard -->
+    <div id="toast" class="toast hidden" role="alert">Copied!</div>
+
+    <!-- Loading overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="loading-spinner"></div>
+      <p>Loading code data...</p>
+    </div>
+  </div>
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

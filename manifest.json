@@ -1,0 +1,50 @@
+{
+  "name": "Canadian Code Compass",
+  "short_name": "Code Compass",
+  "description": "CSA B149 code clause lookup for licensed gas technicians",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a2e",
+  "background_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search B149.1",
+      "url": "/?filter=b149-1",
+      "description": "Search Natural Gas Installation Code"
+    },
+    {
+      "name": "Search B149.2",
+      "url": "/?filter=b149-2",
+      "description": "Search Propane Storage Code"
+    }
+  ],
+  "categories": ["utilities", "productivity"]
+}
