@@ -19,7 +19,7 @@ Mobile-first PWA for licensed HVAC/gas technicians to look up CSA B149 code clau
 | CSA B149.1-25 (Natural Gas) | 1,178 clauses |
 | CSA B149.2-25 (Propane) | 177 clauses |
 | Scenario index (plain-language → clause) | 58 scenarios |
-| TSSA bulletins | 3 Director's Orders |
+| TSSA bulletins | 12 Director's Orders (with live PDF links) |
 
 ## Stack
 
