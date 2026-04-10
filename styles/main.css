@@ -664,13 +664,23 @@ mark {
   margin-top: 6px;
 }
 .bulletin-link {
-  display: inline-block;
-  margin-top: 6px;
-  font-size: 0.75rem;
-  color: var(--accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  padding: 10px 14px;
+  min-height: 40px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border-radius: var(--radius-sm);
   text-decoration: none;
+  transition: background 0.15s ease, transform 0.1s ease;
+  -webkit-tap-highlight-color: transparent;
 }
-.bulletin-link:hover { text-decoration: underline; }
+.bulletin-link:hover { background: var(--accent-hover); }
+.bulletin-link:active { transform: scale(0.97); }
 .no-bulletins {
   font-size: 0.8rem;
   color: var(--text-muted);

@@ -1,25 +1,36 @@
 [
   {
-    "id": "tssa-do-fs-072-06",
-    "title": "Mandatory Inspection of Natural Draft Boilers — CO Safety Check",
-    "document_number": "FS-072-06 R8",
-    "date": "2012-09",
-    "summary": "TSSA legally requires heating contractors to perform a CO safety check on all natural gas/propane natural draft boilers equipped with a draft control device whenever a technician enters the home. CO alarms must be located near sleeping quarters. Non-compliance can result in fuel supply termination.",
-    "related_clauses": ["8.9", "8.12", "8.23", "8.6", "4.13"],
-    "code_standard": "B149.1-25",
+    "id": "tssa-do-fs-271-24",
+    "title": "Propane Storage Tanks Designed for 200 PSIG — Out of Service",
+    "document_number": "FS-271-24",
+    "date": "2024-08-08",
+    "summary": "Any propane tank with a maximum allowable working pressure (MAWP) less than 250 psig must be taken out of service. Effective October 1, 2025. CSA B149.2 Clause 7.1.1 requires 250 psig MAWP; older 200 psig tanks are being retired due to aging concerns. Verify tank nameplate before recertification.",
+    "related_clauses": ["7.1", "5.2", "6.2"],
+    "code_standard": "B149.2-25",
     "severity": "enforcement_change",
-    "tssa_url": ""
+    "tssa_url": "https://www.tssa.org/sites/default/files/2024-10/Propane%20Storage%20Tanks%20Designed%20for%20200%20PSIG-FS-271-24-Fuels-Director%27s-Order_0.pdf"
+  },
+  {
+    "id": "tssa-do-fs-222-2016",
+    "title": "Security Fireplace Direct Vent Models — Prohibition",
+    "document_number": "FS-222-2016",
+    "date": "2016-11-18",
+    "summary": "Natural gas and propane direct-vent fireplaces manufactured by Security Fireplace models SRGH36, SBGH36, DV73, and DV71 Series (marketed under Oliver MacLeod) are prohibited from sale, lease, rent, installation, or use. Delayed ignition testing showed the relief damper failed to prevent glass expulsion into the living space. Terminate fuel supply immediately on identified units. \"Series\" includes all suffixes (R, WF, MH, E, N, P).",
+    "related_clauses": ["4.5", "4.13", "8.22"],
+    "code_standard": "B149.1-25",
+    "severity": "immediate_hazard",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Public-Safety-Security-Fireplace-Directors-Order-222-2016.pdf"
   },
   {
     "id": "tssa-do-fs-195-12",
-    "title": "Prohibition — Majestic/Insta-Flame Direct Vent Free Standing Fireplaces",
+    "title": "Majestic/Insta-Flame Direct Vent Fireplaces — Prohibition",
     "document_number": "FS-195-12 R1",
-    "date": "2016-03-25",
+    "date": "2016-02-15",
     "summary": "Majestic Fireplace models FSDV22, FSDV30, FSDV32, D222, and D232 series (brands: Majestic, InstaFlame, Union, Irving) are banned from sale, lease, rental, installation, or use in Ontario. Fuel supply must be terminated immediately due to delayed ignition risk causing glass expulsion into living space. No retrofit available — manufacturer defunct since 2008.",
     "related_clauses": ["4.5.2", "4.5.5", "4.2.1"],
     "code_standard": "B149.1-25",
     "severity": "immediate_hazard",
-    "tssa_url": ""
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Directors-Order-195-12r1-February-15-2016.pdf"
   },
   {
     "id": "tssa-advisory-fs-101-07",
@@ -30,6 +41,94 @@
     "related_clauses": ["8.9.6", "8.9.5", "8.18"],
     "code_standard": "B149.1-25",
     "severity": "enforcement_change",
-    "tssa_url": ""
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Plastic-Vents-Advisory-101-07-R1.pdf"
+  },
+  {
+    "id": "tssa-do-fs-056-06",
+    "title": "Mobile Food Service Equipment (MFSE) Requirements",
+    "document_number": "FS-056-06 R1",
+    "date": "2013-06-01",
+    "summary": "Mobile food service equipment (food trucks, trailers, portable carts with propane cooking appliances) must have: (1) TSSA Field Approval or recognized certification label (post-Feb 13 2006 units); (2) required DANGER labels on the unit and at fuelling point; (3) annual inspection by a certified gas technician using the TSSA MFSE Annual Inspection Certificate. Cooking appliances must not be used for space heating.",
+    "related_clauses": ["7.3", "7.18", "8.4"],
+    "code_standard": "B149.1-25",
+    "severity": "code_violation",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-MFSE-Directors-Order-Advisory-06-01-13.pdf"
+  },
+  {
+    "id": "tssa-do-fs-072-06",
+    "title": "Natural Draft Boilers — Mandatory CO Safety Check",
+    "document_number": "FS-072-06 R7",
+    "date": "2012-09-01",
+    "summary": "TSSA legally requires heating contractors to perform a CO safety check on all natural gas/propane natural draft hot water boilers equipped with a draft control device (<300,000 BTUH, residential 1-2 family dwellings) whenever a technician enters the home. CO alarms must be present. Non-compliance or refusal to allow inspection can result in fuel supply termination.",
+    "related_clauses": ["8.9", "8.12", "8.23", "8.6", "4.13"],
+    "code_standard": "B149.1-25",
+    "severity": "enforcement_change",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Existing-Boilers-Final-revised-Directors-Order-Rev-7-072-06.pdf"
+  },
+  {
+    "id": "tssa-do-fs-149-09",
+    "title": "APR Industries DVI-MI Direct Vent Fireplace Inserts",
+    "document_number": "FS-149-09",
+    "date": "2009-06-12",
+    "summary": "APR Industries natural gas (DVI-MI-NG Series) and propane (DVI-MI-LP Series) direct vent fireplace inserts are not approved and shall not be sold, leased, installed, or used. Hazard: units use a thermopile-only flame sensing with Flame Failure Response Time up to 2.5 minutes (vs. 30-second maximum in the standard), allowing unburnt gas accumulation and delayed ignition glass breakage. Certification withdrawn April 7, 2009. Terminate fuel supply on identified units.",
+    "related_clauses": ["4.5", "4.13", "8.9"],
+    "code_standard": "B149.1-25",
+    "severity": "immediate_hazard",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-APR-Industries-DVI-MI-Safety-Directors-Order-149-09.pdf"
+  },
+  {
+    "id": "tssa-do-fs-139-08",
+    "title": "Wolf Steel (Napoleon) GDI-44 / CDI-44 Propane Inserts",
+    "document_number": "FS-139-08",
+    "date": "2008-09-23",
+    "summary": "Wolf Steel Ltd. (Napoleon Fireplace) propane-fired direct vent fireplace insert Models GDI-44 and CDI-44 Series are not approved and shall not be sold, leased, installed, or used. Order applies to PROPANE units only. Hazard: relief damper fails to absorb delayed ignition, causing glass breakage and/or top frame distortion allowing CO into the home. Certification withdrawn September 11, 2008. Terminate fuel supply on identified units.",
+    "related_clauses": ["4.5", "8.9", "8.18"],
+    "code_standard": "B149.2-25",
+    "severity": "immediate_hazard",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Wolf-Steel-Ltd-Safety-Directors-Order-GDI-44.pdf"
+  },
+  {
+    "id": "tssa-do-fs-134-08",
+    "title": "Quietside QVM9 Water Heater — Unapproved Vent Adaptor",
+    "document_number": "FS-134-08 R1",
+    "date": "2008-09-04",
+    "summary": "The vent adaptor on Quietside Corp QVM9 Series instantaneous water heaters is not certified and may fail, releasing CO into the home. No new installations with this adaptor. Any units in operation must be retrofitted with a certified adaptor (refer to Advisory FS-136-06 for certified installation). Failure to retrofit results in fuel supply termination. Identify the adaptor: two-section, bottom with O-ring on flat flange, press-fit top section with PVC sealed with high-temperature silicon.",
+    "related_clauses": ["8.9", "8.18", "8.20"],
+    "code_standard": "B149.1-25",
+    "severity": "code_violation",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Unapproved-Vent-Adaptor-for-the-QVM9-Series-Instantaneous-Water-Heaters-Directors-Order-Rev-1.pdf"
+  },
+  {
+    "id": "tssa-do-fs-137-08",
+    "title": "Tirino Corp Genesis HTM-200/200-R/300 Water Heaters & Boilers",
+    "document_number": "FS-137-08 R1",
+    "date": "2008-07-31",
+    "summary": "Tirino Corp Genesis HTM-200, HTM-200-R, and HTM-300 Series gas/propane water heaters, boilers, and combination units are not approved. Hazard: failure to shut down on blocked flue causes CO into home, and delayed ignition on startup. Certification withdrawn June 17, 2008. A 60-day variance is available for in-service units if a TSSA licensed certificate holder inspects and progressively blocks the flue to full blockage — CO must not exceed 0.04% air-free and pressure switch must shut the unit down. Failure = fuel supply terminated.",
+    "related_clauses": ["4.2.1", "8.9", "8.18"],
+    "code_standard": "B149.1-25",
+    "severity": "immediate_hazard",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Directors-Safety-Order-July-31-2008.pdf"
+  },
+  {
+    "id": "tssa-do-fs-105-07",
+    "title": "Tirino Corp Northern TN100WH / HTM-100 — Unapproved",
+    "document_number": "FS-105-07",
+    "date": "2007-05-30",
+    "summary": "Tirino Corp Northern TN100WH (water heater), Northern TN100WHC (combination), and Genesis HTM-100 (boiler/combination) gas, propane, and oil-fired units are not approved for sale, install, or use. EXEMPTION: Pre-2000 Northern TN100WH and TN100WHC units (oil-fired from Jan 1 1988; gas-fired from Dec 1 1988; both through March 9, 2000) with ULC logo and serialized rating plates (1-100) are exempt. Exempt units must have rear 610mm (24\"), flue 230mm (9\"), and non-combustible floor clearances listed on the rating plate.",
+    "related_clauses": ["4.2.1", "4.2.2"],
+    "code_standard": "B149.1-25",
+    "severity": "code_violation",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Tirino-Corp-Directors-Order-105-07.pdf"
+  },
+  {
+    "id": "tssa-do-fs-076-06",
+    "title": "Un-Vented Servel Refrigerators (1933-1957) — Lethal CO Hazard",
+    "document_number": "FS-076-06",
+    "date": "2006-03-01",
+    "summary": "Propane and gas-fired Un-Vented Servel refrigerators built 1933-1957 must be removed from any dwelling, mobile home, RV, or living space — either rendered inoperable or relocated to an isolated area (shed, garage, open porch), minimum 12 inches from any opening to living space. Hazard: CO production at lethal levels. Requires annual TSSA-certified gas technician inspection and a WARNING label. Every G1/G2/G3/GP/DA certificate holder who finds one must provide the owner a copy of the Director's Order attachment. NOTE: Different from current Dometic-brand Servel refrigerators.",
+    "related_clauses": ["8.9", "4.13"],
+    "code_standard": "B149.1-25",
+    "severity": "immediate_hazard",
+    "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Propane-Storage-Handling-Directors-Order-076-06.pdf"
   }
 ]

@@ -6,6 +6,15 @@ import { copyCitation, formatCitation } from './clipboard.js';
 
 /* global DOMPurify */
 
+// Force external anchors to open in a new tab with a safe rel (noopener/noreferrer).
+// Applied once on module load; DOMPurify runs this hook on every sanitize call.
+DOMPurify.addHook('afterSanitizeAttributes', (node) => {
+  if (node.tagName === 'A' && node.getAttribute('href')) {
+    node.setAttribute('target', '_blank');
+    node.setAttribute('rel', 'noopener noreferrer');
+  }
+});
+
 /** Safely set element HTML content via DOMPurify */
 function safeSetHTML(el, html) {
   el.textContent = '';
@@ -182,7 +191,7 @@ export function renderBulletins(bulletinList, container) {
             `<span class="related-chip">${esc(c)}</span>`
           ).join(' ')}</div>`
         : ''}
-      ${b.tssa_url ? `<a href="${esc(b.tssa_url)}" target="_blank" rel="noopener" class="bulletin-link">View on TSSA →</a>` : ''}
+      ${b.tssa_url ? `<a href="${esc(b.tssa_url)}" target="_blank" rel="noopener" class="bulletin-link">📄 View Official TSSA PDF</a>` : ''}
     </div>
   `).join('');
 

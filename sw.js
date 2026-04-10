@@ -3,7 +3,7 @@
  * All clause data is static and cached on first load
  */
 
-const CACHE_NAME = 'ccc-v5';
+const CACHE_NAME = 'ccc-v6';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
