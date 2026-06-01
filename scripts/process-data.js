@@ -14,16 +14,51 @@ function processB149_1() {
   const clauseIndex = raw.clause_index;
   const sectionIndex = raw.section_index || {};
 
+  // Title continuations that the source extractor split into the description
+  // field. Merge them back so the citation title is complete.
+  const SPLIT_TITLE_FIXES = {
+    '5.5.1': 'overpressure relief devices',
+    '6.27': 'wash-mobiles, and mobile homes',
+    '8.2': 'heaters',
+  };
+
+  // Official CSA B149.1-25 section/annex headings (source has no section_index).
+  // Used so the Browse view shows named sections instead of "Section 4".
+  const B149_1_SECTION_TITLES = {
+    '3': 'Definitions',
+    '4': 'General',
+    '5': 'Pressure controls',
+    '6': 'Piping and tubing systems, gas hose, and fittings',
+    '7': 'Installation of specific appliances',
+    '8': 'Venting systems and air supply',
+    '9': 'Natural gas compressors and cylinder filling',
+    '10': 'Compressed natural gas refuelling stations',
+  };
+
   const clauses = [];
   for (const [clauseNum, data] of Object.entries(clauseIndex)) {
+    // Skip bare section-number keys (e.g. "3", "10"). These are never valid
+    // clause citations and in the source they hold garbled table/figure
+    // fragments mis-mapped into the clause index.
+    if (/^\d+$/.test(clauseNum)) continue;
+
     const section = getSection(clauseNum);
+    let title = data.title || '';
+    let description = data.description || '';
+    if (SPLIT_TITLE_FIXES[clauseNum] && description.trim() === SPLIT_TITLE_FIXES[clauseNum]) {
+      title = `${title.trimEnd()} ${description.trim()}`.trim();
+      description = '';
+    }
+
+    const isAnx = isAnnex(clauseNum);
     clauses.push({
       clause: clauseNum,
-      title: data.title || '',
+      title: title,
       section: section,
-      description: data.description || '',
+      section_title: isAnx ? `Annex ${section}` : (B149_1_SECTION_TITLES[section] || `Section ${section}`),
+      description: description,
       category: data.category || '',
-      annex: isAnnex(clauseNum) ? clauseNum.charAt(0) : null,
+      annex: isAnx ? clauseNum.charAt(0) : null,
     });
   }
 

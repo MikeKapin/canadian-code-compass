@@ -111,6 +111,12 @@ body {
   font-size: 1.2rem;
   cursor: pointer;
   padding: 6px;
+  /* 44px minimum touch target on every viewport, not just mobile */
+  min-width: 44px;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   border-radius: var(--radius-sm);
   transition: background 0.15s;
 }

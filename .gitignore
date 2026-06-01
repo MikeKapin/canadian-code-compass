@@ -4,3 +4,11 @@ Thumbs.db
 *.log
 .netlify/
 .test-tmp/
+
+# Secrets (institutional security baseline)
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials.json

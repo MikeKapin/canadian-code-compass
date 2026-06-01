@@ -83,7 +83,7 @@
     "date": "2008-09-23",
     "summary": "Wolf Steel Ltd. (Napoleon Fireplace) propane-fired direct vent fireplace insert Models GDI-44 and CDI-44 Series are not approved and shall not be sold, leased, installed, or used. Order applies to PROPANE units only. Hazard: relief damper fails to absorb delayed ignition, causing glass breakage and/or top frame distortion allowing CO into the home. Certification withdrawn September 11, 2008. Terminate fuel supply on identified units.",
     "related_clauses": ["4.5", "8.9", "8.18"],
-    "code_standard": "B149.2-25",
+    "code_standard": "B149.1-25",
     "severity": "immediate_hazard",
     "tssa_url": "https://www.tssa.org/sites/default/files/2023-10/FS-Wolf-Steel-Ltd-Safety-Directors-Order-GDI-44.pdf"
   },

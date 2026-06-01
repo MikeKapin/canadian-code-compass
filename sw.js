@@ -3,7 +3,7 @@
  * All clause data is static and cached on first load
  */
 
-const CACHE_NAME = 'ccc-v6';
+const CACHE_NAME = 'ccc-v7';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
@@ -23,6 +23,8 @@ const STATIC_ASSETS = [
   '/icons/icon-maskable-512.png',
   '/icons/apple-touch-180.png',
   '/icons/favicon-32.png',
+  '/icons/icon.svg',
+  '/icons/icon-maskable.svg',
 ];
 
 const CDN_ASSETS = [
@@ -33,11 +35,10 @@ const CDN_ASSETS = [
 // Install — cache all static assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll([...STATIC_ASSETS, ...CDN_ASSETS]);
-    })
+    caches.open(CACHE_NAME)
+      .then((cache) => cache.addAll([...STATIC_ASSETS, ...CDN_ASSETS]))
+      .then(() => self.skipWaiting())
   );
-  self.skipWaiting();
 });
 
 // Activate — clean up old caches

@@ -2,7 +2,7 @@
  * UI rendering module — results cards, section browser, bulletins
  * All HTML output is sanitized via DOMPurify before DOM insertion.
  */
-import { copyCitation, formatCitation } from './clipboard.js';
+import { copyCitation } from './clipboard.js';
 
 /* global DOMPurify */
 
@@ -196,19 +196,6 @@ export function renderBulletins(bulletinList, container) {
   `).join('');
 
   safeSetHTML(container, html);
-}
-
-// --- Stats Bar ---
-
-export function renderStats(counts) {
-  return `
-    <div class="stats-bar">
-      <span>${counts.b149_1} B149.1 clauses</span>
-      <span class="stat-sep">•</span>
-      <span>${counts.b149_2} B149.2 clauses</span>
-      <span class="stat-sep">•</span>
-      <span>${counts.scenarios} scenarios</span>
-    </div>`;
 }
 
 // --- Helpers ---

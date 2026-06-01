@@ -3,7 +3,7 @@
  * Initializes data, binds events, manages app state
  */
 import { loadAllData, search, getSectionTree, getBulletins, getClauseCount } from './search.js';
-import { renderResults, renderSectionBrowser, renderBulletins, renderStats } from './ui.js';
+import { renderResults, renderSectionBrowser, renderBulletins } from './ui.js';
 
 // --- App State ---
 const state = {
