@@ -53,6 +53,7 @@ export function renderResults(results, query, container) {
   const html = results.map(r => renderResultCard(r, query)).join('');
   safeSetHTML(container, html);
   bindCopyButtons(container);
+  bindExpandables(container);
 }
 
 function renderResultCard(result, query) {
@@ -86,7 +87,7 @@ function renderResultCard(result, query) {
         </div>
       </div>
       <h3 class="card-title">${highlightMatch(result.title || '', query)}</h3>
-      <p class="card-desc">${highlightMatch(truncate(result.description, 300), query)}</p>
+      ${descParagraph(highlightMatch(result.description, query), 'card-desc', isLong(result.description, 300))}
       ${relatedHtml}
       <div class="card-actions">
         <button class="copy-btn" data-citation="${esc(result.citation)}">
@@ -102,6 +103,22 @@ function bindCopyButtons(container) {
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
       copyCitation(btn.dataset.citation, btn);
+    });
+  });
+}
+
+function bindExpandables(container) {
+  container.querySelectorAll('.expandable').forEach(p => {
+    const toggle = () => {
+      const expanded = p.classList.toggle('expanded');
+      p.setAttribute('aria-expanded', String(expanded));
+    };
+    p.addEventListener('click', toggle);
+    p.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggle();
+      }
     });
   });
 }
@@ -147,6 +164,7 @@ export function renderSectionBrowser(tree, container) {
         const { sec, codeStandard } = flatSections[Number(header.dataset.secIdx)];
         safeSetHTML(body, renderSectionBody(sec, codeStandard));
         bindCopyButtons(body);
+        bindExpandables(body);
         body.dataset.rendered = '1';
       }
       body.classList.toggle('hidden');
@@ -186,7 +204,7 @@ function renderSectionBody(sec, codeStandard) {
         <span class="clause-num">${esc(c.clause)}</span>
         <span class="browse-title">${esc(c.title || '')}</span>
       </div>
-      ${c.description ? `<p class="browse-desc">${esc(truncate(c.description, 200))}</p>` : ''}
+      ${descParagraph(esc(c.description), 'browse-desc', isLong(c.description, 200))}
       <button class="copy-btn small" data-citation="CSA ${codeShort} Clause ${esc(c.clause)}">
         📋 Copy
       </button>
@@ -249,7 +267,14 @@ function escapeRegex(str) {
   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-function truncate(str, max) {
-  if (!str || str.length <= max) return str || '';
-  return str.slice(0, max) + '…';
+function isLong(str, threshold) {
+  return Boolean(str && str.length > threshold);
+}
+
+// Long descriptions render in full but visually clamped (CSS line-clamp);
+// tapping the paragraph toggles the full text. Short ones are plain <p>s.
+function descParagraph(html, baseClass, expandable) {
+  if (!html) return '';
+  if (!expandable) return `<p class="${baseClass}">${html}</p>`;
+  return `<p class="${baseClass} expandable" role="button" tabindex="0" aria-expanded="false" title="Tap to show full text">${html}</p>`;
 }

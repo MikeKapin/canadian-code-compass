@@ -460,6 +460,25 @@ body {
   margin-bottom: 8px;
 }
 
+/* Long clause text: clamped by default, tap/Enter reveals the rest (ui.js bindExpandables) */
+.expandable {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.card-desc.expandable {
+  -webkit-line-clamp: 5;
+}
+
+.expandable.expanded {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+}
+
 mark {
   background: var(--mark-bg);
   color: var(--mark-color);
