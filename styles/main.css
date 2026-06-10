@@ -82,6 +82,9 @@ body {
   margin: 0 -16px;
   padding-left: 16px;
   padding-right: 16px;
+  /* iOS standalone uses black-translucent + viewport-fit=cover, so the page
+     extends under the status bar — pad the sticky header below it */
+  padding-top: calc(12px + env(safe-area-inset-top, 0px));
 }
 
 .header-content {
@@ -316,6 +319,12 @@ body {
 }
 .search-input:focus { border-color: var(--accent); }
 .search-input::placeholder { color: var(--text-muted); }
+/* Hide the native webkit clear button — we render our own #clear-search */
+.search-input::-webkit-search-cancel-button,
+.search-input::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
 
 .clear-btn {
   position: absolute;
@@ -556,6 +565,10 @@ mark {
   transition: background 0.15s;
 }
 .section-header:hover { background: var(--accent-glow); }
+.section-header:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
 
 .section-arrow {
   font-size: 0.7rem;
@@ -728,6 +741,27 @@ mark {
   from { transform: translateX(-50%) translateY(10px); opacity: 0; }
   to { transform: translateX(-50%) translateY(0); opacity: 1; }
 }
+
+/* === Update Banner === */
+.update-banner {
+  position: fixed;
+  bottom: max(16px, env(safe-area-inset-bottom, 16px));
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 12px 22px;
+  background: var(--accent);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.82rem;
+  border: none;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+  z-index: 1500;
+  cursor: pointer;
+  max-width: calc(100vw - 32px);
+  animation: toast-in 0.25s ease-out;
+}
+.update-banner:hover { background: var(--accent-hover); }
 
 /* === Loading === */
 .loading-overlay {

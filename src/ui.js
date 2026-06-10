@@ -111,6 +111,11 @@ function bindCopyButtons(container) {
 export function renderSectionBrowser(tree, container) {
   if (!container) return;
 
+  // Lazy rendering: section bodies (1,300+ clauses total) are built on first
+  // expand, not up front — the eager version pushed 8,000+ nodes / ~750 KB of
+  // HTML through DOMPurify in one shot, which janks mid-range phones.
+  const flatSections = [];
+
   const html = tree.map(code => `
     <div class="code-tree">
       <h2 class="code-tree-title">
@@ -119,49 +124,74 @@ export function renderSectionBrowser(tree, container) {
         </span>
         ${esc(code.title)}
       </h2>
-      ${code.sections.map(sec => renderSectionNode(sec, code.code)).join('')}
+      ${code.sections.map(sec => {
+        const idx = flatSections.length;
+        flatSections.push({ sec, codeStandard: code.code });
+        return renderSectionHeader(sec, idx);
+      }).join('')}
     </div>
   `).join('');
 
   safeSetHTML(container, html);
 
   container.querySelectorAll('.section-header').forEach(header => {
-    header.addEventListener('click', () => {
+    // Keyboard accessibility: headers are divs, so wire them up as buttons
+    header.setAttribute('role', 'button');
+    header.setAttribute('tabindex', '0');
+    header.setAttribute('aria-expanded', 'false');
+
+    const toggle = () => {
       const body = header.nextElementSibling;
       const arrow = header.querySelector('.section-arrow');
+      if (body.dataset.rendered !== '1') {
+        const { sec, codeStandard } = flatSections[Number(header.dataset.secIdx)];
+        safeSetHTML(body, renderSectionBody(sec, codeStandard));
+        bindCopyButtons(body);
+        body.dataset.rendered = '1';
+      }
       body.classList.toggle('hidden');
-      arrow.textContent = body.classList.contains('hidden') ? '▶' : '▼';
+      const expanded = !body.classList.contains('hidden');
+      arrow.textContent = expanded ? '▼' : '▶';
+      header.setAttribute('aria-expanded', String(expanded));
+    };
+
+    header.addEventListener('click', toggle);
+    header.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        toggle();
+      }
     });
   });
-
-  bindCopyButtons(container);
 }
 
-function renderSectionNode(sec, codeStandard) {
-  const codeShort = codeStandard.includes('B149.1') ? 'B149.1-25' : 'B149.2-25';
+function renderSectionHeader(sec, idx) {
   return `
     <div class="section-node">
-      <div class="section-header">
+      <div class="section-header" data-sec-idx="${idx}">
         <span class="section-arrow">▶</span>
         <span class="section-label">Section ${esc(sec.section)}</span>
         <span class="section-title">${esc(sec.sectionTitle)}</span>
         <span class="clause-count">${sec.clauses.length}</span>
       </div>
-      <div class="section-body hidden">
-        ${sec.clauses.map(c => `
-          <div class="browse-clause">
-            <div class="browse-clause-header">
-              <span class="clause-num">${esc(c.clause)}</span>
-              <span class="browse-title">${esc(c.title || '')}</span>
-            </div>
-            ${c.description ? `<p class="browse-desc">${esc(truncate(c.description, 200))}</p>` : ''}
-            <button class="copy-btn small" data-citation="CSA ${codeShort} Clause ${esc(c.clause)}">
-              📋 Copy
-            </button>
-          </div>
-        `).join('')}
-      </div>
+      <div class="section-body hidden"></div>
     </div>`;
+}
+
+function renderSectionBody(sec, codeStandard) {
+  const codeShort = codeStandard.includes('B149.1') ? 'B149.1-25' : 'B149.2-25';
+  return sec.clauses.map(c => `
+    <div class="browse-clause">
+      <div class="browse-clause-header">
+        <span class="clause-num">${esc(c.clause)}</span>
+        <span class="browse-title">${esc(c.title || '')}</span>
+      </div>
+      ${c.description ? `<p class="browse-desc">${esc(truncate(c.description, 200))}</p>` : ''}
+      <button class="copy-btn small" data-citation="CSA ${codeShort} Clause ${esc(c.clause)}">
+        📋 Copy
+      </button>
+    </div>
+  `).join('');
 }
 
 // --- Bulletins ---
@@ -203,7 +233,8 @@ export function renderBulletins(bulletinList, container) {
 function highlightMatch(text, query) {
   if (!query || !text) return esc(text || '');
   const escaped = esc(text);
-  const words = query.split(/\s+/).filter(w => w.length > 1).map(escapeRegex);
+  // min 3 chars so stopwords like "to"/"or" don't litter results with marks
+  const words = query.split(/\s+/).filter(w => w.length > 2).map(escapeRegex);
   if (words.length === 0) return escaped;
   const re = new RegExp(`(${words.join('|')})`, 'gi');
   return escaped.replace(re, '<mark>$1</mark>');

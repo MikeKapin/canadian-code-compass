@@ -14,17 +14,23 @@ let bulletins = [];
 // --- Data Loading ---
 
 export async function loadAllData() {
+  // Clause/scenario data is load-bearing: fail loudly so the error overlay shows
+  // instead of silently rendering "0 clauses". Bulletins are supplementary.
   const [scenarios, clauses1, clauses2, bulls] = await Promise.all([
     fetchJSON('data/scenario-index.json'),
     fetchJSON('data/b149-1-clauses.json'),
     fetchJSON('data/b149-2-clauses.json'),
-    fetchJSON('data/bulletins.json'),
+    fetchJSON('data/bulletins.json').catch(() => []),
   ]);
 
   scenarioIndex = scenarios || [];
   b149_1_Clauses = clauses1 || [];
   b149_2_Clauses = clauses2 || [];
   bulletins = bulls || [];
+
+  if (b149_1_Clauses.length === 0 && b149_2_Clauses.length === 0) {
+    throw new Error('Clause data failed to load');
+  }
 
   // Build Fuse indexes
   scenarioFuse = new Fuse(scenarioIndex, {
@@ -59,13 +65,9 @@ export async function loadAllData() {
 }
 
 async function fetchJSON(path) {
-  try {
-    const res = await fetch(path);
-    if (!res.ok) return [];
-    return res.json();
-  } catch {
-    return [];
-  }
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(`Failed to fetch ${path}: ${res.status}`);
+  return res.json();
 }
 
 // --- Scenario Search ---
@@ -73,13 +75,19 @@ async function fetchJSON(path) {
 export function searchScenario(query, filter = 'all') {
   if (!query || query.length < 2 || !scenarioFuse) return [];
 
-  const results = scenarioFuse.search(query, { limit: 20 });
+  // Search unbounded, filter by code standard, THEN limit — otherwise a
+  // B149.1-heavy top-20 starves filtered propane searches of valid matches.
+  const results = scenarioFuse.search(query);
 
   return results
+    .filter(r => {
+      if (filter === 'all') return true;
+      const codeStd = r.item.code_standard.includes('B149.1') ? 'b149-1' : 'b149-2';
+      return filter === codeStd;
+    })
+    .slice(0, 20)
     .map(r => {
       const item = r.item;
-      const codeStd = item.code_standard.includes('B149.1') ? 'b149-1' : 'b149-2';
-      if (filter !== 'all' && filter !== codeStd) return null;
 
       return {
         type: 'scenario',
@@ -225,8 +233,12 @@ function groupBySection(clauses, codeStandard) {
 // --- Bulletin Helpers ---
 
 function clauseHasBulletin(clause) {
+  // Dot-boundary match only: "6.2" covers "6.2.1" but NOT sibling "6.20".
+  // Bare startsWith falsely badged 139 clauses (e.g. all of 6.20.x / 6.21.x).
   return bulletins.some(b =>
-    b.related_clauses && b.related_clauses.some(rc => clause.startsWith(rc) || rc.startsWith(clause))
+    b.related_clauses && b.related_clauses.some(rc =>
+      clause === rc || clause.startsWith(rc + '.') || rc.startsWith(clause + '.')
+    )
   );
 }
 

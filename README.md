@@ -24,8 +24,8 @@ Mobile-first PWA for licensed HVAC/gas technicians to look up CSA B149 code clau
 ## Stack
 
 - Static HTML + vanilla JS (ES modules, no build step)
-- [Fuse.js](https://fusejs.io/) — fuzzy search
-- [DOMPurify](https://github.com/cure53/DOMPurify) — XSS-safe HTML rendering
+- [Fuse.js](https://fusejs.io/) 7.0.0 — fuzzy search (vendored in `lib/`, no CDN dependency)
+- [DOMPurify](https://github.com/cure53/DOMPurify) 3.0.6 — XSS-safe HTML rendering (vendored in `lib/`)
 - Service Worker — cache-first offline
 - PWA manifest with proper `any` + `maskable` icons
 
@@ -40,4 +40,4 @@ No build step. No dependencies. Just serve the folder.
 
 ## Disclaimer
 
-Not affiliated with CSA, TSSA, or Fanshawe College. Plain-language summaries are for quick reference only — always consult the official code for authoritative wording. Built by Michael Kapin as a personal reference tool for licensed technicians.
+No institutional affiliation. Not affiliated with CSA or TSSA. Plain-language summaries are for quick reference only — always consult the official code for authoritative wording. Built by Michael Kapin as a personal reference tool for licensed technicians.

@@ -109,6 +109,22 @@ function bindEvents() {
     });
   }
 
+  // Arrow-key navigation across the mode tabs (ARIA tabs pattern)
+  const tabs = [...$$('.mode-tab')];
+  const modeTabsNav = $('.mode-tabs');
+  if (modeTabsNav) {
+    modeTabsNav.addEventListener('keydown', (e) => {
+      if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+      const current = tabs.indexOf(document.activeElement);
+      if (current === -1) return;
+      e.preventDefault();
+      const delta = e.key === 'ArrowRight' ? 1 : -1;
+      const next = tabs[(current + delta + tabs.length) % tabs.length];
+      next.focus();
+      next.click();
+    });
+  }
+
   $$('.mode-tab').forEach(tab => {
     tab.addEventListener('click', () => {
       const newMode = tab.dataset.mode;
@@ -140,7 +156,9 @@ function bindEvents() {
       const list = $('#bulletins-list');
       const arrow = bulletinsToggle.querySelector('.toggle-arrow');
       if (list) list.classList.toggle('hidden');
-      if (arrow) arrow.textContent = list?.classList.contains('hidden') ? '▼' : '▲';
+      const collapsed = list?.classList.contains('hidden');
+      if (arrow) arrow.textContent = collapsed ? '▼' : '▲';
+      bulletinsToggle.setAttribute('aria-expanded', String(!collapsed));
     });
   }
 
@@ -238,13 +256,27 @@ function toggleClearButton() {
 
 // --- Service Worker Registration ---
 async function registerSW() {
-  if ('serviceWorker' in navigator) {
-    try {
-      await navigator.serviceWorker.register('sw.js');
-    } catch (err) {
-      console.warn('SW registration failed:', err);
-    }
+  if (!('serviceWorker' in navigator)) return;
+  try {
+    // hadController is false on the very first visit, so the install-time
+    // claim() doesn't trigger a bogus "updated" banner — only real updates do.
+    const hadController = !!navigator.serviceWorker.controller;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (hadController) showUpdateBanner();
+    });
+    await navigator.serviceWorker.register('sw.js');
+  } catch (err) {
+    console.warn('SW registration failed:', err);
   }
+}
+
+function showUpdateBanner() {
+  if ($('.update-banner')) return;
+  const banner = document.createElement('button');
+  banner.className = 'update-banner';
+  banner.textContent = '↻ Updated: tap to load the latest version';
+  banner.addEventListener('click', () => location.reload());
+  document.body.appendChild(banner);
 }
 
 // --- Install to Home Screen ---

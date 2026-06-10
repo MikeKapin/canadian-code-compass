@@ -3,10 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <!-- frame-ancestors is delivered via _headers (HTTP), not here: it is ignored in a <meta> CSP -->
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#1a1a2e">
   <meta name="description" content="Canadian Code Compass — Quick CSA B149.1 & B149.2 code clause lookup for licensed gas technicians">
+  <meta property="og:title" content="Canadian Code Compass">
+  <meta property="og:description" content="Quick CSA B149.1 & B149.2 code clause lookup for licensed gas technicians. Works fully offline.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="icons/icon-512.png">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -18,10 +22,9 @@
   <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-180.png">
   <link rel="mask-icon" href="icons/icon.svg" color="#cc785c">
   <link rel="stylesheet" href="styles/main.css">
-  <!-- Fuse.js for fuzzy search (SRI-pinned) -->
-  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha384-PCSoOZTpbkikBEtd/+uV3WNdc676i9KUf01KOA8CnJotvlx8rRrETbDuwdjqTYvt" crossorigin="anonymous"></script>
-  <!-- DOMPurify for safe HTML rendering (SRI-pinned) -->
-  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js" integrity="sha384-cwS6YdhLI7XS60eoDiC+egV0qHp8zI+Cms46R0nbn8JrmoAzV9uFL60etMZhAnSu" crossorigin="anonymous"></script>
+  <!-- Fuse.js 7.0.0 + DOMPurify 3.0.6, vendored locally so first load never depends on a CDN -->
+  <script src="lib/fuse.min.js"></script>
+  <script src="lib/purify.min.js"></script>
 </head>
 <body>
   <div id="app">
@@ -98,7 +101,7 @@
 
       <!-- TSSA Bulletins Section -->
       <div id="bulletins-section" class="bulletins-section">
-        <button id="bulletins-toggle" class="bulletins-toggle">
+        <button id="bulletins-toggle" class="bulletins-toggle" aria-expanded="false" aria-controls="bulletins-list">
           <span>⚠️ TSSA Bulletins & Director's Orders</span>
           <span class="toggle-arrow">▼</span>
         </button>
@@ -111,7 +114,7 @@
     <!-- Footer -->
     <footer class="app-footer">
       <p>Built by Michael Kapin — Personal reference tool for licensed technicians</p>
-      <p class="footer-note">Not affiliated with CSA, TSSA, or Fanshawe College. Plain-language summaries only.</p>
+      <p class="footer-note">No institutional affiliation. Not affiliated with CSA or TSSA. Plain-language summaries only.</p>
     </footer>
 
     <!-- iOS install instructions modal (shown only on iOS Safari) -->

@@ -4,6 +4,7 @@ Thumbs.db
 *.log
 .netlify/
 .test-tmp/
+.playwright-mcp/
 
 # Secrets (institutional security baseline)
 .env

@@ -3,11 +3,13 @@
  * All clause data is static and cached on first load
  */
 
-const CACHE_NAME = 'ccc-v7';
+const CACHE_NAME = 'ccc-v8';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
   '/styles/main.css',
+  '/lib/fuse.min.js',
+  '/lib/purify.min.js',
   '/src/main.js',
   '/src/search.js',
   '/src/ui.js',
@@ -27,16 +29,11 @@ const STATIC_ASSETS = [
   '/icons/icon-maskable.svg',
 ];
 
-const CDN_ASSETS = [
-  'https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js',
-  'https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js',
-];
-
 // Install — cache all static assets
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then((cache) => cache.addAll([...STATIC_ASSETS, ...CDN_ASSETS]))
+      .then((cache) => cache.addAll(STATIC_ASSETS))
       .then(() => self.skipWaiting())
   );
 });
@@ -57,8 +54,8 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // Cache-first for same-origin static assets and CDN libs
-  if (url.origin === self.location.origin || url.hostname === 'cdn.jsdelivr.net') {
+  // Cache-first for same-origin static assets
+  if (url.origin === self.location.origin) {
     event.respondWith(
       caches.match(event.request).then((cached) => {
         if (cached) return cached;
