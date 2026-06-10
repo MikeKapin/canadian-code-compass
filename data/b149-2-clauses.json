@@ -1,1 +1,2426 @@
-[{"clause":"3.accessory","title":"Accessory","section":"3","section_title":"Definitions","description":"a part capable of performing an independent function and contributing to the operation of the appliance that it serves.","type":"clause"},{"clause":"3.aerosol_container","title":"Aerosol container","section":"3","section_title":"Definitions","description":"a non-refillable container meeting the requirements for 2P, 2Pl, 2Q, 2Q2, or 2R aerosol containers for containment and transportation of propane under the Transportation of Dangerous Goods Regulations of Transport Canada.","type":"clause"},{"clause":"3.appliance","title":"Appliance","section":"3","section_title":"Definitions","description":"a device to convert propane into energy (including any component, control, wiring, piping, or tubing required to be part of the device).","type":"clause"},{"clause":"3.approved","title":"Approved","section":"3","section_title":"Definitions","description":"acceptable to the authority having jurisdiction.","type":"clause"},{"clause":"3.authority_having_jurisdiction","title":"Authority having jurisdiction","section":"3","section_title":"Definitions","description":"the governmental body responsible for the enforcement of any part of this Code, or the official or agency designated by that body to exercise such a function.","type":"clause"},{"clause":"3.boiler","title":"Boiler","section":"3","section_title":"Definitions","description":"an appliance intended to supply hot liquid or vapour for space-heating, processing, or power purposes.","type":"clause"},{"clause":"3.building","title":"Building","section":"3","section_title":"Definitions","description":"a structure or part of a structure used or intended for supporting or sheltering persons, animals, or property and classified by its occupancy in accordance with the applicable building code of the authority having jurisdiction or, in the absence of such, in accordance with the National Building Code of Canada.","type":"clause"},{"clause":"3.burner","title":"Burner","section":"3","section_title":"Definitions","description":"a device or group of devices forming an integral unit for the introduction of propane, with or without air or oxygen, into the combustion zone for ignition.","type":"clause"},{"clause":"3.cargo_liner","title":"Cargo liner","section":"3","section_title":"Definitions","description":"vehicle that is used to transport propane in which the tank constitutes the main structural member and that is towed by a separate motor vehicle.","type":"clause"},{"clause":"3.certified","title":"Certified","section":"3","section_title":"Definitions","description":"investigated and identified by a designated testing organization as conforming to recognized standards, requirements, or accepted test reports.","type":"clause"},{"clause":"3.combustible","title":"Combustible","section":"3","section_title":"Definitions","description":"material that fails to conform to CAN/ULC-S114 requirements for noncombustibility.","type":"clause"},{"clause":"3.combustible_liquid","title":"Combustible liquid","section":"3","section_title":"Definitions","description":"a liquid that has a flashpoint at or above 100 °F (38 °C) and below 200 °F (93 °C).","type":"clause"},{"clause":"3.combustion_air","title":"Combustion air","section":"3","section_title":"Definitions","description":"the air required for satisfactory combustion of propane, including excess air.","type":"clause"},{"clause":"3.commercial_and_industrial_type_appliance","title":"Commercial and industrial-type appliance or equipment","section":"3","section_title":"Definitions","description":"an appliance or equipment other than a residential or recreational type.","type":"clause"},{"clause":"3.component","title":"Component","section":"3","section_title":"Definitions","description":"an essential part of an appliance or equipment.","type":"clause"},{"clause":"3.connected_for_use","title":"Connected for use","section":"3","section_title":"Definitions","description":"a propane container that is properly connected to an appliance in accordance with the provisions of this Code.","type":"clause"},{"clause":"3.connector","title":"Connector","section":"3","section_title":"Definitions","description":"tubing or hose with a fitting at each end for connecting an appliance or equipment with piping or tubing.","type":"clause"},{"clause":"3.construction_heater","title":"Construction heater","section":"3","section_title":"Definitions","description":"portable direct-fired unvented heater intended only for temporary use in heating buildings under construction, alteration, or repair.","type":"clause"},{"clause":"3.construction_site","title":"Construction site","section":"3","section_title":"Definitions","description":"a temporary worksite involving construction activities such as the erection, alteration, and dismantling or demolition of a building or equipment, re-roofing of a building, or digging.","type":"clause"},{"clause":"3.container","title":"Container","section":"3","section_title":"Definitions","description":"either an aerosol container, a cylinder, or a tank.","type":"clause"},{"clause":"3.container_refill_centre","title":"Container refill centre (propane service station)","section":"3","section_title":"Definitions","description":"an area, including a building, in which propane is dispensed into containers, and in which propane storage containers, piping, and pertinent equipment, including a dispensing system, can be located.","type":"clause"},{"clause":"3.cylinder","title":"Cylinder","section":"3","section_title":"Definitions","description":"a container designed and manufactured in accordance with a cylinder specification authorized for the containment and transportation of propane under the Transportation of Dangerous Goods (TDG) Regulations of Transport Canada.","type":"clause"},{"clause":"3.cylinder_system","title":"Cylinder system","section":"3","section_title":"Definitions","description":"an assembly that includes the cylinder base or bracket, cylinder, cylinder valve, connector, manifold valve assembly, regulator, and relief valve, or any combination of these.","type":"clause"},{"clause":"3.direct_vent_appliance","title":"Direct-vent appliance","section":"3","section_title":"Definitions","description":"an appliance constructed so that all the combustion air is supplied directly from, and the products of combustion are vented directly to, the outdoors by independent enclosed passageways connected directly to the appliance.","type":"clause"},{"clause":"3.dispensing_system","title":"Dispensing system","section":"3","section_title":"Definitions","description":"a system, consisting of tank, pump and motor, propane dispenser, and associated piping and supports, for the storage, metering, and dispensing of liquid propane into containers.","type":"clause"},{"clause":"3.dwelling_unit","title":"Dwelling unit","section":"3","section_title":"Definitions","description":"a housekeeping unit used or intended to be used as a domicile by one or more persons, and usually containing cooking, eating, living, sleeping, and sanitary facilities.","type":"clause"},{"clause":"3.enclosure","title":"Enclosure","section":"3","section_title":"Definitions","description":"a secondary structure (room) within or attached to a structure (building) in which an appliance is installed.","type":"clause"},{"clause":"3.equipment","title":"Equipment","section":"3","section_title":"Definitions","description":"a device, other than an appliance, accessory, or component, that is connected to a piping or tubing system.","type":"clause"},{"clause":"3.filling_density","title":"Filling density","section":"3","section_title":"Definitions","description":"the percentage ratio of the weight of the propane in a container to the weight of water the container will hold at 59 °F (15 °C).","type":"clause"},{"clause":"3.filling_plant","title":"Filling plant (bulk plant)","section":"3","section_title":"Definitions","description":"a facility, the primary purpose of which is the distribution of propane. Such plants have bulk storage or container filling or vehicle transfer facilities on the premises. Bulk plants are considered part of this category.","type":"clause"},{"clause":"3.fitting","title":"Fitting","section":"3","section_title":"Definitions","description":"an item in a piping or tubing system that is used as a means of connection, such as an elbow, return bend, tee, union, bushing, coupling, cross, or nipple; the term does not include such functioning items as a valve or pressure regulator.","type":"clause"},{"clause":"3.flue","title":"Flue","section":"3","section_title":"Definitions","description":"an enclosed passageway for conveying flue gases.","type":"clause"},{"clause":"3.flue_gases","title":"Flue gases","section":"3","section_title":"Definitions","description":"combustion products and excess air.","type":"clause"},{"clause":"3.furnace","title":"Furnace","section":"3","section_title":"Definitions","description":"an indirect-fired, flue-connected, space-heating appliance that uses warm air as the heating medium and usually has provision for the attachment of ducts.","type":"clause"},{"clause":"3.garage","title":"Garage","section":"3","section_title":"Definitions","description":"","type":"clause"},{"clause":"3.gas_cartridge","title":"Gas cartridge","section":"3","section_title":"Definitions","description":"a non-refillable container meeting the requirements for 2P, 2P2, or 2Q gas cartridges for containment and transportation of propane under Transport Canada's Transportation of Dangerous Goods Regulations.","type":"clause"},{"clause":"3.gauge","title":"Gauge (when referring to the liquid level in containers)","section":"3","section_title":"Definitions","description":"","type":"clause"},{"clause":"3.hose","title":"Hose (gas hose)","section":"3","section_title":"Definitions","description":"a flexible conduit.","type":"clause"},{"clause":"3.ignition","title":"Ignition","section":"3","section_title":"Definitions","description":"the establishment of a flame.","type":"clause"},{"clause":"3.installer","title":"Installer","section":"3","section_title":"Definitions","description":"any individual, firm, corporation, or company that either directly or through a representative is engaged in the installation, replacement, repair, or servicing of propane piping, venting systems, appliances, components, accessories, or equipment, and whose representative is either experienced or trained, or both, in such work and has complied with the requirements of the authority having jurisdiction.","type":"clause"},{"clause":"3.kiosk","title":"Kiosk","section":"3","section_title":"Definitions","description":"a structure that has an area of less than 100 ft² (9.3 m²) located on a propane dispenser or vehicle fuel dispenser island that provides shelter and contains the necessary equipment to permit a person to perform his or her duties.","type":"clause"},{"clause":"3.mechanical_air_intake","title":"Mechanical air intake","section":"3","section_title":"Definitions","description":"a means to mechanically provide ventilation and/or combustion air requirements to a building.","type":"clause"},{"clause":"3.mobile_housing","title":"Mobile housing","section":"3","section_title":"Definitions","description":"a term that includes all of the following structures:","type":"clause"},{"clause":"3.noncombustible","title":"Noncombustible","section":"3","section_title":"Definitions","description":"material that conforms to CAN/ULC-S114 requirements for noncombustibility.","type":"clause"},{"clause":"3.overfill_prevention_device","title":"Overfill prevention device","section":"3","section_title":"Definitions","description":"a safety device that is designed to provide an automatic means to prevent the filling of a container in excess of the maximum permitted filling limit.","type":"clause"},{"clause":"3.pilot","title":"Pilot","section":"3","section_title":"Definitions","description":"a flame that is used to ignite a gas/air or propane/air mixture at the main burner(s).","type":"clause"},{"clause":"3.point_of_transfer","title":"Point of transfer","section":"3","section_title":"Definitions","description":"the dispensing hose inlet connection.","type":"clause"},{"clause":"3.pol","title":"POL","section":"3","section_title":"Definitions","description":"a commonly employed fitting used for propane and meeting the requirements for Connection No. 510 as specified in CGA V-1.","type":"clause"},{"clause":"3.propane_dispenser","title":"Propane dispenser","section":"3","section_title":"Definitions","description":"an assembly intended to dispense liquid propane and controlled by a human operator. The assembly can include a pressure relief device (PRD), vapour separator, strainer, metering assembly, meter register (mechanical or electronic), control valves, hose, hose nozzle, controls (mechanical or electronic), interlocking mechanism, locking mechanism, weigh scale, and associated wiring, piping fittings, and housing.","type":"clause"},{"clause":"3.purge","title":"Purge","section":"3","section_title":"Definitions","description":"to replace the existing fluid (gaseous or liquid) in piping, tubing, equipment, a container, or an appliance with a desired fluid.","type":"clause"},{"clause":"3.quick_disconnect_device","title":"Quick-disconnect device","section":"3","section_title":"Definitions","description":"a hand-operated device that is used for connecting and disconnecting either an appliance or an appliance connector to a propane supply and that is equipped with an automatic means to shut off the propane supply when the device is disconnected.","type":"clause"},{"clause":"3.readily_accessible","title":"Readily accessible","section":"3","section_title":"Definitions","description":"capable of being reached quickly for operation, renewal, servicing, or inspection, without requiring climbing over, or the removal of, an obstacle or the use of a portable ladder.","type":"clause"},{"clause":"3.recreational_vehicle","title":"Recreational vehicle","section":"3","section_title":"Definitions","description":"a portable structure intended as temporary accommodation for travel, vacation, or recreational use. Such structures include a chassis-mounted camper, motorized home, slide-in camper, tent trailer, or travel trailer.","type":"clause"},{"clause":"3.regulator","title":"Regulator","section":"3","section_title":"Definitions","description":"","type":"clause"},{"clause":"3.relief_device","title":"Relief device","section":"3","section_title":"Definitions","description":"a device designed to open to prevent a rise of propane pressure in excess of a specified value due to an emergency or abnormal conditions.","type":"clause"},{"clause":"3.safety_limit_control","title":"Safety limit control","section":"3","section_title":"Definitions","description":"a safety control intended to prevent an unsafe condition of temperature, pressure, or liquid level.","type":"clause"},{"clause":"3.self_service_vehicle_fuel_dispenser","title":"Self-service vehicle fuel dispenser","section":"3","section_title":"Definitions","description":"a vehicle fuel dispenser for use by the public for conducting dispensing operations.","type":"clause"},{"clause":"3.set_pressure","title":"Set pressure","section":"3","section_title":"Definitions","description":"the start-to-discharge pressure for which a relief valve is set and marked.","type":"clause"},{"clause":"3.structure","title":"Structure","section":"3","section_title":"Definitions","description":"the entire building in which an appliance is installed.","type":"clause"},{"clause":"3.tank","title":"Tank (with respect to propane storage)","section":"3","section_title":"Definitions","description":"the class of container for the storage of propane, designed and fabricated in accordance with CSA B51.","type":"clause"},{"clause":"3.tank_trailer","title":"Tank trailer","section":"3","section_title":"Definitions","description":"a unit on which a tank of not more than 2000 USWG (7500 L) capacity is permanently mounted on a chassis and is towed by another vehicle.","type":"clause"},{"clause":"3.tank_truck","title":"Tank truck","section":"3","section_title":"Definitions","description":"a truck chassis and tank assembly as a complete unit for the bulk delivery of propane.","type":"clause"},{"clause":"3.underground_tank","title":"Underground tank","section":"3","section_title":"Definitions","description":"a tank that is buried completely or partly below the ground level and covered with earth, sand, or other material or mounded partly below the ground level or above ground level and covered with earth, sand, or other material.","type":"clause"},{"clause":"3.valve","title":"Valve","section":"3","section_title":"Definitions","description":"a device by which the flow of a fluid can be started, stopped, or regulated by a movable part that opens or obstructs passage.","type":"clause"},{"clause":"3.vaporizer","title":"Vaporizer","section":"3","section_title":"Definitions","description":"a device for converting liquid propane to vapour by means other than atmospheric heat transfer through the surface of the container.","type":"clause"},{"clause":"3.vehicle_fuel_dispenser","title":"Vehicle fuel dispenser","section":"3","section_title":"Definitions","description":"a propane dispenser, specifically for dispensing liquid propane by volume into containers.","type":"clause"},{"clause":"3.vent","title":"Vent","section":"3","section_title":"Definitions","description":"that portion of a venting system designed to convey flue gases directly to the outdoors from either a vent connector or an appliance when a vent connector is not used.","type":"clause"},{"clause":"3.ventilation","title":"Ventilation (with respect to the space in which an appliance is installed)","section":"3","section_title":"Definitions","description":"the removal of inside air, leaked or spilled products of combustion, or flue gases from the space in which an appliance is installed to outside the space, and the replacement of same by air from outside the space.","type":"clause"},{"clause":"4.1","title":"Application","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.1.1","title":"Propane and butane requirements","section":"4","section_title":"General","description":"For the purposes of this Code, the requirements contained in CAN/CGSB-3.14 for propane or CAN/CGSB-3.13 for butane shall apply.","type":"subclause"},{"clause":"4.1.2","title":"Code conflicts","section":"4","section_title":"General","description":"When a specification or document referenced in Clause 2 contains a requirement that conflicts with a requirement in this Code, the requirement in this Code shall govern, except in the case of Canadian (federal), provincial, or territorial regulations.","type":"subclause"},{"clause":"4.1.3","title":"Installation instructions","section":"4","section_title":"General","description":"An appliance, an accessory, a component, equipment, or any other item shall be installed in accordance with the manufacturer's certified installation instructions and with this Code.","type":"subclause"},{"clause":"4.1.4","title":"Conflicts","section":"4","section_title":"General","description":"Where a conflict exists between the manufacturer's installation instructions and this Code, the requirements of this Code shall prevail unless otherwise approved.","type":"subclause"},{"clause":"4.2","title":"Approval of appliances, accessories, components, equipment, and material","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.2.1","title":"Installation","section":"4","section_title":"General","description":"An appliance, an accessory, a component, equipment, or material used in an installation shall be of a type and rating approved for the specific purpose for which it is employed.","type":"subclause"},{"clause":"4.2.2","title":"Deviation","section":"4","section_title":"General","description":"When deviation from or postponement of these requirements is necessary, permission in writing shall be obtained from the authority having jurisdiction before the work proceeds, and this permission shall apply only to the particular installation for which it is given.","type":"subclause"},{"clause":"4.2.3","title":"Assembly or construction approval","section":"4","section_title":"General","description":"The approval of the assembly or construction of an appliance is subject to the authority having jurisdiction. (CSA B149.3 contains provisions for assembly and construction of appliances.)","type":"subclause"},{"clause":"4.3","title":"Responsibilities of the installer","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.3.1","title":"Initial installation","section":"4","section_title":"General","description":"Before leaving installations, installers shall ensure that the appliance, accessory, component, or equipment they installed complies with the Code requirements, and the person initially activating the appliance shall ensure that the appliance is in safe working order.","type":"subclause"},{"clause":"4.3.2","title":"Operation instruction","section":"4","section_title":"General","description":"Installers shall instruct the user in the safe and correct operation of all appliances or equipment that they install.","type":"subclause"},{"clause":"4.3.3","title":"Manufacturer instructions","section":"4","section_title":"General","description":"The installer shall ensure that the manufacturer's instructions supplied with the appliance are left with the user.","type":"subclause"},{"clause":"4.3.4","title":"Replacement parts","section":"4","section_title":"General","description":"Before installing a replacement part of an appliance, the installer shall ensure that the replacement part provides operational characteristics at least equivalent to those of the original part.","type":"subclause"},{"clause":"4.3.5","title":"Piping or tubing system pressure tests","section":"4","section_title":"General","description":"It shall be the responsibility of the installer of a piping or tubing system to perform pressure tests in accordance with Clause 6.22.2 of CSA B149.1 and to ensure that the piping or tubing system is gas-tight at the completion of the tests.","type":"subclause"},{"clause":"4.3.6","title":"Gas tight test","section":"4","section_title":"General","description":"It shall be the responsibility of the installer of an appliance to perform tests in accordance with Clause 6.22.3 of CSA B149.1 and to ensure that the system is gas-tight at the completion of the tests.","type":"subclause"},{"clause":"4.4","title":"Training and quality of labour","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.4.1","title":"Work quality","section":"4","section_title":"General","description":"All work shall be done in a skillful, thorough manner. Careful attention shall be paid not only to the mechanical execution of the work but also to the arrangement of the installation.","type":"subclause"},{"clause":"4.4.2","title":"Training","section":"4","section_title":"General","description":"Personnel performing installation, operation, and maintenance work shall be properly trained in such functions.","type":"subclause"},{"clause":"4.5","title":"Suitability of use","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.5.1","title":"Type of gas and pressure","section":"4","section_title":"General","description":"An appliance shall not be installed unless it is designed for use with the type of gas to which it is to be connected and is suitable for the pressure supplied.","type":"subclause"},{"clause":"4.5.2","title":"Hazards","section":"4","section_title":"General","description":"The use of an appliance, an accessory, a component, equipment, or material shall be prohibited where a hazard is created.","type":"subclause"},{"clause":"4.5.3","title":"Damaged appliances","section":"4","section_title":"General","description":"An appliance that has been exposed to fire, explosion, flood, or other damage shall not be offered for sale, installed, reactivated, or reconnected to the supply until the appliance has been inspected by a person acceptable to the authority having jurisdiction.","type":"subclause"},{"clause":"4.5.4","title":"Used appliances","section":"4","section_title":"General","description":"Before reconnection to supply piping or tubing, a used appliance shall be inspected and determined by the installer to be safe for continued use.","type":"subclause"},{"clause":"4.6","title":"Electrical connections and components","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.6.1","title":"Code requirements","section":"4","section_title":"General","description":"Electrical connections between an appliance and building wiring shall comply with the local electrical code or, in the absence of such, with the Canadian Electrical Code, Part I.","type":"subclause"},{"clause":"4.6.2","title":"Electrical circuits","section":"4","section_title":"General","description":"An electrical circuit employed for operating an automatic main control valve, automatic pilot, room-temperature thermostat, safety limit control, or another electrical device used with an appliance shall be in accordance with the appliance wiring diagram.","type":"subclause"},{"clause":"4.7","title":"Hazardous and corrosive locations","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.7.1","title":"Installation","section":"4","section_title":"General","description":"An appliance shall not be installed in a room that has an atmosphere containing vapours corrosive to an appliance or venting system.","type":"subclause"},{"clause":"4.7.2","title":"Approved installation","section":"4","section_title":"General","description":"An appliance, unless certified or approved for installation in a hazardous location, shall not be installed in a location where a flammable vapour, combustible dust or fibres, or an explosive mixture is present.","type":"subclause"},{"clause":"4.8","title":"Smoking","section":"4","section_title":"General","description":"Smoking or providing any other source of ignition shall not be permitted in the area where work is being done on piping, tubing, or equipment that either contains or has contained propane, unless the piping, tubing, or equipment has been purged of all propane as outlined in Clause 6.23 of CSA B149.1.","type":"clause"},{"clause":"4.9","title":"Isolation of safety devices","section":"4","section_title":"General","description":"Isolating or rendering inoperative a safety shut-off valve, safety limit control, or relief device shall be prohibited.","type":"clause"},{"clause":"4.10","title":"Leak detection","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.10.1","title":"Sources of ignition","section":"4","section_title":"General","description":"A match, candle, flame, or other source of ignition shall not be used to check for a propane leak.","type":"subclause"},{"clause":"4.10.2","title":"Light and/or flashlight use","section":"4","section_title":"General","description":"A light, including a flashlight, used in connection with a search for propane leakage shall be suitable for Group IIA hazardous locations.","type":"subclause"},{"clause":"4.10.3","title":"Electrical switches","section":"4","section_title":"General","description":"An electric switch either in or adjacent to an area of propane leakage shall not be operated unless it is suitable for Group IIA hazardous locations.","type":"subclause"},{"clause":"4.11","title":"Appliance clearances to combustible material","section":"4","section_title":"General","description":"Appliance clearances to combustible material shall be in accordance with Clause 4.13 of CSA B149.1.","type":"clause"},{"clause":"4.12","title":"Accessibility","section":"4","section_title":"General","description":"","type":"clause"},{"clause":"4.12.1","title":"Installation","section":"4","section_title":"General","description":"An appliance shall be installed so that it is accessible for servicing.","type":"subclause"},{"clause":"4.12.2","title":"Service clearances","section":"4","section_title":"General","description":"An appliance shall be installed with a minimum service clearance of 24 in (61 cm) from any side, top, or bottom where service could be necessary, except where a) a greater distance is indicated on the appliance rating plate; or b) the distance is not sufficient for the removal, replacement, or repair of a component, an accessory, or any equipment forming either an integral part of the appliance or connected to the appliance, in which case minimum service clearance shall be provided that is adequate to effect such removal, replacement, or repair.","type":"subclause"},{"clause":"4.12.3","title":"Access dimensions","section":"4","section_title":"General","description":"An access opening with minimum dimensions of 24 x 30 in (61 cm x 76 cm) shall be provided to the space in which an appliance is located.","type":"subclause"},{"clause":"4.12.4","title":"Appliance passageway","section":"4","section_title":"General","description":"A clear and unobstructed passageway at least 36 in (91 cm) high and 36 in (91 cm) wide shall be provided to each appliance.","type":"subclause"},{"clause":"5.1","title":"Odourization","section":"5","section_title":"General requirements for propane and propane equipment","description":"","type":"clause"},{"clause":"5.1.1","title":"Propane for fuel purposes","section":"5","section_title":"General requirements for propane and propane equipment","description":"Propane distributed for fuel purposes shall be odourized in accordance with CAN/CGSB-3.14.","type":"subclause"},{"clause":"5.1.2","title":"Responsibility for odourization","section":"5","section_title":"General requirements for propane and propane equipment","description":"Odourization of the propane shall be the responsibility of the producer or processor, who shall indicate on the shipping document its compliance with CAN/CGSB-3.14.","type":"subclause"},{"clause":"5.2","title":"Container filling","section":"5","section_title":"General requirements for propane and propane equipment","description":"","type":"clause"},{"clause":"5.2.1","title":"Propane transfers","section":"5","section_title":"General requirements for propane and propane equipment","description":"Propane shall only be transferred from one container to another by a person who is the holder of a certificate recognized by the authority having jurisdiction.","type":"subclause"},{"clause":"5.2.2","title":"Attending propane transfers","section":"5","section_title":"General requirements for propane and propane equipment","description":"While propane is being transferred from one container to another, the person transferring shall remain at the container being filled.","type":"subclause"},{"clause":"5.2.3","title":"Container limitations","section":"5","section_title":"General requirements for propane and propane equipment","description":"Propane shall not be put into a) a cylinder, aerosol container, or gas cartridge specifically designed for butane or one that does not conform with the requirements of CSA B340 or CGSB 43.123, respectively; or b) a tank specifically designed for butane or one having a MAWP of less than 250 psig (1.72 MPa).","type":"subclause"},{"clause":"5.2.4","title":"Refuelling outlet responsibility","section":"5","section_title":"General requirements for propane and propane equipment","description":"The owner and/or license holder of a container refill centre, card/key lock, or fleet vehicle refuelling outlet shall be held responsible for ensuring compliance with the requirement of Clause 5.2.1.","type":"subclause"},{"clause":"5.2.5","title":"Anhydrous ammonia","section":"5","section_title":"General requirements for propane and propane equipment","description":"A container having brass equipment designed for propane use shall not be used for anhydrous ammonia. Except as permitted by the requirements of CSA B340, when steel equipment is installed on the container and the container has been used with anhydrous ammonia, it may be used for propane if purged in accordance with Clause A.1.","type":"subclause"},{"clause":"5.2.6","title":"Container filling","section":"5","section_title":"General requirements for propane and propane equipment","description":"The person filling a container shall be responsible for ensuring that the maximum permitted filling density is not exceeded.","type":"subclause"},{"clause":"5.2.7","title":"Container filling locations","section":"5","section_title":"General requirements for propane and propane equipment","description":"A container shall not be filled or gauged a) inside a building, other than a building designed for such purpose; b) in a location that is not well ventilated; c) within 10 ft (3 m) measured horizontally from the air intake of any appliance or air-moving equipment; or d) within 10 ft (3 m) measured horizontally from any source of ignition.","type":"subclause"},{"clause":"5.2.8","title":"Container purging","section":"5","section_title":"General requirements for propane and propane equipment","description":"A new container, or one from which the propane atmosphere has been removed, shall be purged.","type":"subclause"},{"clause":"5.2.9","title":"Removing liquid contents","section":"5","section_title":"General requirements for propane and propane equipment","description":"When a container is repaired, requalified, or scrapped, its liquid contents shall only be removed by flaring or by transferring to another container.","type":"subclause"},{"clause":"5.2.10","title":"Purging","section":"5","section_title":"General requirements for propane and propane equipment","description":"Cylinders and motor fuel containers shall be purged in accordance with Clause 6.4.1 of this Code and with CSA B149.5.","type":"subclause"},{"clause":"5.2.11","title":"Propane-fuelled motor vehicles","section":"5","section_title":"General requirements for propane and propane equipment","description":"A propane-fuelled motor vehicle shall not be refuelled unless a) it is a vehicle identified as meeting the Motor Vehicle Safety Regulations, Standard 301, for factory-equipped vehicles; or b) it meets the requirements of Clause 5.2.1 of CSA B149.5.","type":"subclause"},{"clause":"5.2.12","title":"Safe purging","section":"5","section_title":"General requirements for propane and propane equipment","description":"Cylinders and motor fuel containers shall not be purged within 10 ft (3 m), measured horizontally, of a) a building, except for a building approved for the purposes; b) a property line; c) a source of ignition; or d) the air intake of any appliance or air-moving equipment.","type":"subclause"},{"clause":"5.3","title":"Protection of containers and equipment","section":"5","section_title":"General requirements for propane and propane equipment","description":"","type":"clause"},{"clause":"5.3.1","title":"Protection against damage","section":"5","section_title":"General requirements for propane and propane equipment","description":"Valves, pressure regulators, gauges, piping, tubing, gas hose, and other equipment shall be protected against damage.","type":"subclause"},{"clause":"5.3.2","title":"Protection from motor vehicle damage","section":"5","section_title":"General requirements for propane and propane equipment","description":"When containers are installed or stored in locations that do not afford protection from damage from motor vehicles on a street, highway, avenue, alley, or parking lot, they shall be protected by posts or guardrails in compliance with Clause 7.19.4 unless otherwise approved by the authority having jurisdiction.","type":"subclause"},{"clause":"5.3.3","title":"Readily ignitable materials","section":"5","section_title":"General requirements for propane and propane equipment","description":"Readily ignitable materials, including weeds and long dry grass, shall be removed from the area within 10 ft (3 m) of a container, and this area shall be kept clear of such material at all times.","type":"subclause"},{"clause":"5.3.4","title":"Plugging service valve outlets","section":"5","section_title":"General requirements for propane and propane equipment","description":"When a distributor-owned container is disconnected by the distributor and left on a customer's property, all container service valve outlets shall be plugged.","type":"subclause"},{"clause":"5.4","title":"Pressure regulators","section":"5","section_title":"General requirements for propane and propane equipment","description":"","type":"clause"},{"clause":"5.4.1","title":"Pressure regulator size","section":"5","section_title":"General requirements for propane and propane equipment","description":"A pressure regulator shall be of sufficient size to provide the required flow rate of propane at the extremes of inlet pressures to which the regulator can be exposed.","type":"subclause"},{"clause":"5.4.2","title":"Securement and protection of pressure regulators","section":"5","section_title":"General requirements for propane and propane equipment","description":"A pressure regulator shall be firmly secured to the container valve or a regulator bracket on the wall or container dome, or be otherwise secured. When installed outdoors and subject to inclement weather, the pressure regulator shall be protected from exposure to weather conditions.","type":"subclause"},{"clause":"5.4.3","title":"Regulators installed outdoors","section":"5","section_title":"General requirements for propane and propane equipment","description":"A regulator installed outdoors or in an unheated area shall be positioned so that the bonnet vent opening discharges vertically downward, except that a) when installed within a container dome, the vent opening shall be positioned downward not less than 15° from the horizontal; and b) a single-stage pressure regulator with an input rate not exceeding 150 000 Btuh (44 kW) may be installed in a horizontal position, provided that it is protected from inclement weather.","type":"subclause"},{"clause":"6.1","title":"Requirements for cylinders","section":"6","section_title":"Cylinder systems","description":"","type":"clause"},{"clause":"6.1.1","title":"Refillable cylinders","section":"6","section_title":"Cylinder systems","description":"Refillable cylinders shall be manufactured, tested, inspected, requalified, and marked in accordance with the requirements of CSA B339. Non-refillable cylinders shall either be TC 39M as per Clause 6.1.3 or TC specification 2P, 2Pl, 2P2, 2Q, 2Q2, and 2R as per Clause 6.1.4.","type":"subclause"},{"clause":"6.1.2","title":"Overfill prevention device","section":"6","section_title":"Cylinder systems","description":"Except for the following, refillable vapour service cylinders manufactured after January 1, 2008, with a capacity of 4 lb (1.8 kg) through 40 lb (18.1 kg) shall be equipped with an overfill prevention device in compliance with UL 2227: a) cylinders used in industrial truck service; and b) cylinders identified and used for industrial welding and cutting gases.","type":"subclause"},{"clause":"6.1.3","title":"Specification TC 39M","section":"6","section_title":"Cylinder systems","description":"Specification TC 39M non-refillable cylinders shall be manufactured, tested, inspected, and marked in accordance with the requirements of CSA B339.","type":"subclause"},{"clause":"6.1.4","title":"Specification TC 2P, 2P1, 2P2, ZR, 2Q and 2Q2","section":"6","section_title":"Cylinder systems","description":"TC Specification 2P, 2Pl, 2P2, 2R, 2Q, and 2Q2 non-refillable aerosol containers shall be manufactured, tested, inspected, and marked in accordance with the requirements of CGSB-43.123.","type":"subclause"},{"clause":"6.2","title":"Liquid-level gauges on cylinders","section":"6","section_title":"Cylinder systems","description":"","type":"clause"},{"clause":"6.2.1","title":"Atmospheric bleeding","section":"6","section_title":"Cylinder systems","description":"A liquid level gauge that requires the bleeding of propane to the atmosphere, such as a rotary, fixed-liquid-level, or slip-tube type, shall be designed so that any bleed valve opening is not larger than a No. 54 drill size (1.4 mm) unless it is provided with an excess-flow valve.","type":"subclause"},{"clause":"6.2.2","title":"Fixed-liquid-level gauge","section":"6","section_title":"Cylinder systems","description":"The length of the dip tube of a fixed-liquid-level gauge shall indicate the maximum level to which a cylinder may be filled.","type":"subclause"},{"clause":"6.2.3","title":"Fixed-liquid-level gauge marking","section":"6","section_title":"Cylinder systems","description":"When a fixed-liquid-level gauge is used, the length of the dip tube in millimeters, prefixed with the letters 'DT', and followed by the letters 'mm', shall be stamped on the exterior of the valve to which the dip tube is connected and on the cylinder in accordance with CSA B339.","type":"subclause"},{"clause":"7.1","title":"General","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"","type":"clause"},{"clause":"7.1.1","title":"Tank MAWP","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"Subject to Clause 5.2.3 b), a tank shall have a MAWP of not less than 250 psig (1.72 MPa) and the tank and its PRD shall be in compliance with CSA B51 and applicable provincial or territorial regulations covering unfired pressure vessels.","type":"subclause"},{"clause":"7.1.2","title":"Approved tank welding","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"Welding shall not be done to the shell, head, or any other part of a tank subject to internal pressure, except with the approval and under the supervision of the boiler and pressure vessel inspection authority of the province or territory in which it is installed.","type":"subclause"},{"clause":"7.1.3","title":"Tank field welding","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"Field welding of a tank shall be made only on saddle plates or brackets supplied by the manufacturer of the tank.","type":"subclause"},{"clause":"7.1.4","title":"Tank paint","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"Every steel tank shall be kept painted.","type":"subclause"},{"clause":"7.1.5","title":"Tank location","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"A tank with a capacity in excess of 2000 USWG (7500 L) shall not be installed a) under an electrical transmission line and shall be located a minimum horizontal distance from any such line equal to the property clearance requirements of Clauses 7.10.3 and 7.16; b) under an electrical distribution line and shall be located not less than 25 ft (7.6 m) in any direction from any such line; and c) over an underground electrical distribution line and shall be located not less than 5 ft (1.5 m) from any such line.","type":"subclause"},{"clause":"7.2","title":"Relief valves","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"","type":"clause"},{"clause":"7.2.1","title":"Approved relief valve","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"A tank shall be equipped with a properly sized, spring-loaded relief valve that meets the requirements of the provincial or territorial authority where it is to be installed.","type":"subclause"},{"clause":"7.2.2","title":"Relief valve location on tanks","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"All relief valves shall have direct communication with the vapour space of tanks.","type":"subclause"},{"clause":"7.2.3","title":"Relief valve pressure setting adjustment protection","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"All relief valves shall be so arranged that the possibility of tampering will be minimized. If the pressure setting or adjustment is by external means, the relief valve shall be provided with means for sealing the adjustment.","type":"subclause"},{"clause":"7.2.4","title":"Shut-off valve or other device location","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"A shut-off valve or other device shall not be installed between a relief valve and a tank, except a) that a shut-off valve may be used when the full required flow capacity is maintained through another relief valve; or b) an integrated management system from the manufacturer shall be established that controls the operation of the isolation valve that does not inhibit the operation of the PRV while installed.","type":"subclause"},{"clause":"7.2.5","title":"Relief valve rain cap","section":"7","section_title":"Tank systems, filling plants, and refill centres","description":"A loose-fitting rain cap shall be provided for all tank relief valves.","type":"subclause"},{"clause":"8.1","title":"General","section":"8","section_title":"Tank trucks, tank trailers, and cargo liners","description":"All tank trucks, tank trailers, and cargo liners shall be designed, fabricated, and marked in accordance with the requirements of CSA B620.","type":"clause"},{"clause":"8.2","title":"Electrical equipment and lighting on tank trucks, tank trailers, and cargo liners","section":"8","section_title":"Tank trucks, tank trailers, and cargo liners","description":"","type":"clause"},{"clause":"8.2.1","title":"Lighting","section":"8","section_title":"Tank trucks, tank trailers, and cargo liners","description":"A tank truck, tank trailer, or cargo liner shall not be equipped with illumination other than that from an electric source. Lighting circuits shall have overcurrent protection, and the wiring shall have sufficient current-carrying capacity to accommodate the electrical load. The wiring shall be secured, grommetted, and protected against damage.","type":"subclause"},{"clause":"8.2.2","title":"Electrical equipment","section":"8","section_title":"Tank trucks, tank trailers, and cargo liners","description":"Electric motors, wiring, equipment, and fixtures enclosed in the cabinet shall conform with the provincial or territorial electrical code or the Canadian Electrical Code, Part I, for Class I, Zone 2, Group IIA hazardous locations.","type":"subclause"},{"clause":"9.1","title":"General","section":"9","section_title":"Vaporizers","description":"","type":"clause"},{"clause":"9.1.1","title":"Protection","section":"9","section_title":"Vaporizers","description":"A vaporizer shall be protected against tampering and damage.","type":"subclause"},{"clause":"9.1.2","title":"Tank heaters","section":"9","section_title":"Vaporizers","description":"Vaporizers that are designed to return heated propane to the storage container shall be considered tank heaters.","type":"subclause"},{"clause":"9.1.3","title":"Building drain","section":"9","section_title":"Vaporizers","description":"A building used to house a vaporizer shall not have a drain to a sewer or sump pit.","type":"subclause"},{"clause":"9.1.4","title":"Building requirements","section":"9","section_title":"Vaporizers","description":"A building or room used for propane vaporizing or mixing shall a) comply with the requirements of Clause 7.17.3, except that the floor of the building shall be built of noncombustible materials; and b) have all pressure relief valve discharges vented to the exterior and shall not terminate within 3 ft (0.9 m) of a ventilation opening unless the relief discharges vertically upward and is above the roof line.","type":"subclause"},{"clause":"9.1.5","title":"Coil location","section":"9","section_title":"Vaporizers","description":"Heating or cooling coils shall not be installed inside a container.","type":"subclause"},{"clause":"9.1.6","title":"Valves","section":"9","section_title":"Vaporizers","description":"A vaporizer shall have a manually operated valve in each connection to a container.","type":"subclause"},{"clause":"9.1.7","title":"Maximum pressure","section":"9","section_title":"Vaporizers","description":"A vaporizer shall not raise the pressure in a container in excess of 215 psig (1.48 MPa).","type":"subclause"},{"clause":"9.1.8","title":"Liquid carryover","section":"9","section_title":"Vaporizers","description":"A vaporizer shall be provided with suitable automatic means to prevent propane in the liquid phase from passing from the vaporizer to the vapour discharge piping.","type":"subclause"},{"clause":"9.1.9","title":"Source of ignition","section":"9","section_title":"Vaporizers","description":"An open flame or other source of ignition shall not be permitted in a building housing a vaporizer unless the vaporizer is a direct-fired vaporizer.","type":"subclause"},{"clause":"9.1.10","title":"Emergency shutdown","section":"9","section_title":"Vaporizers","description":"An emergency shutdown system shall be installed in any tank system supplying propane to a direct-fired vaporizer. The emergency shutdown system may be of the electrical, pneumatic, or mechanical type or a combination thereof and the means to activate the emergency shutdown system shall be located at least 25 ft (7.6 m) from the direct-fired vaporizer. The emergency shutdown system when activated shall initiate shut-off of the liquid line at the tank location that is connected to the vaporizer.","type":"subclause"},{"clause":"9.2","title":"Indirect vaporizers","section":"9","section_title":"Vaporizers","description":"","type":"clause"},{"clause":"9.2.1","title":"Pressure vessel registration","section":"9","section_title":"Vaporizers","description":"An indirect vaporizer classified as a pressure vessel shall be designed, constructed, tested, and marked in accordance with CSA B51 and the regulations of the boiler and pressure vessel inspection authority of the province or territory in which it is installed.","type":"subclause"},{"clause":"9.2.2","title":"Design working pressure","section":"9","section_title":"Vaporizers","description":"An indirect vaporizer with an inside diameter of 6 in (150 mm) or less that is exempted from the requirements of CSA B51 shall have a design working pressure of not less than 250 psig (1.72 MPa) and need not be permanently marked.","type":"subclause"},{"clause":"9.3","title":"Direct-fired vaporizers","section":"9","section_title":"Vaporizers","description":"","type":"clause"},{"clause":"9.3.1","title":"Location restrictions","section":"9","section_title":"Vaporizers","description":"Subject to Clause 9.3.4, a direct-fired vaporizer shall not be permitted in a pumphouse, a container filling or storage room, or in any other building or room.","type":"subclause"},{"clause":"9.3.2","title":"Source of ignition","section":"9","section_title":"Vaporizers","description":"A direct-fired vaporizer is considered a source of ignition and shall be located at a distance in accordance with the requirements of Table 7.4 from any tank or from the fill points of any tank, and at least 25 ft (7.6 m) from a building or property line.","type":"subclause"}]
+[
+  {
+    "clause": "3.accessory",
+    "title": "Accessory",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a part capable of performing an independent function and contributing to the operation of the appliance that it serves.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.aerosol_container",
+    "title": "Aerosol container",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a non-refillable container meeting the requirements for 2P, 2Pl, 2Q, 2Q2, or 2R aerosol containers for containment and transportation of propane under the Transportation of Dangerous Goods Regulations of Transport Canada.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.appliance",
+    "title": "Appliance",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device to convert propane into energy (including any component, control, wiring, piping, or tubing required to be part of the device).",
+    "type": "clause"
+  },
+  {
+    "clause": "3.approved",
+    "title": "Approved",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "acceptable to the authority having jurisdiction.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.authority_having_jurisdiction",
+    "title": "Authority having jurisdiction",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the governmental body responsible for the enforcement of any part of this Code, or the official or agency designated by that body to exercise such a function.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.boiler",
+    "title": "Boiler",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an appliance intended to supply hot liquid or vapour for space-heating, processing, or power purposes.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.building",
+    "title": "Building",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a structure or part of a structure used or intended for supporting or sheltering persons, animals, or property and classified by its occupancy in accordance with the applicable building code of the authority having jurisdiction or, in the absence of such, in accordance with the National Building Code of Canada.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.burner",
+    "title": "Burner",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device or group of devices forming an integral unit for the introduction of propane, with or without air or oxygen, into the combustion zone for ignition.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.cargo_liner",
+    "title": "Cargo liner",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "vehicle that is used to transport propane in which the tank constitutes the main structural member and that is towed by a separate motor vehicle.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.certified",
+    "title": "Certified",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "investigated and identified by a designated testing organization as conforming to recognized standards, requirements, or accepted test reports.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.combustible",
+    "title": "Combustible",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "material that fails to conform to CAN/ULC-S114 requirements for noncombustibility.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.combustible_liquid",
+    "title": "Combustible liquid",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a liquid that has a flashpoint at or above 100 °F (38 °C) and below 200 °F (93 °C).",
+    "type": "clause"
+  },
+  {
+    "clause": "3.combustion_air",
+    "title": "Combustion air",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the air required for satisfactory combustion of propane, including excess air.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.commercial_and_industrial_type_appliance",
+    "title": "Commercial and industrial-type appliance or equipment",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an appliance or equipment other than a residential or recreational type.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.component",
+    "title": "Component",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an essential part of an appliance or equipment.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.connected_for_use",
+    "title": "Connected for use",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a propane container that is properly connected to an appliance in accordance with the provisions of this Code.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.connector",
+    "title": "Connector",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "tubing or hose with a fitting at each end for connecting an appliance or equipment with piping or tubing.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.construction_heater",
+    "title": "Construction heater",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "portable direct-fired unvented heater intended only for temporary use in heating buildings under construction, alteration, or repair.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.construction_site",
+    "title": "Construction site",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a temporary worksite involving construction activities such as the erection, alteration, and dismantling or demolition of a building or equipment, re-roofing of a building, or digging.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.container",
+    "title": "Container",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "either an aerosol container, a cylinder, or a tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.container_refill_centre",
+    "title": "Container refill centre (propane service station)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an area, including a building, in which propane is dispensed into containers, and in which propane storage containers, piping, and pertinent equipment, including a dispensing system, can be located.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.cylinder",
+    "title": "Cylinder",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a container designed and manufactured in accordance with a cylinder specification authorized for the containment and transportation of propane under the Transportation of Dangerous Goods (TDG) Regulations of Transport Canada.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.cylinder_system",
+    "title": "Cylinder system",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an assembly that includes the cylinder base or bracket, cylinder, cylinder valve, connector, manifold valve assembly, regulator, and relief valve, or any combination of these.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.direct_vent_appliance",
+    "title": "Direct-vent appliance",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an appliance constructed so that all the combustion air is supplied directly from, and the products of combustion are vented directly to, the outdoors by independent enclosed passageways connected directly to the appliance.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.dispensing_system",
+    "title": "Dispensing system",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a system, consisting of tank, pump and motor, propane dispenser, and associated piping and supports, for the storage, metering, and dispensing of liquid propane into containers.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.dwelling_unit",
+    "title": "Dwelling unit",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a housekeeping unit used or intended to be used as a domicile by one or more persons, and usually containing cooking, eating, living, sleeping, and sanitary facilities.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.enclosure",
+    "title": "Enclosure",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a secondary structure (room) within or attached to a structure (building) in which an appliance is installed.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.equipment",
+    "title": "Equipment",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device, other than an appliance, accessory, or component, that is connected to a piping or tubing system.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.filling_density",
+    "title": "Filling density",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the percentage ratio of the weight of the propane in a container to the weight of water the container will hold at 59 °F (15 °C).",
+    "type": "clause"
+  },
+  {
+    "clause": "3.filling_plant",
+    "title": "Filling plant (bulk plant)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a facility, the primary purpose of which is the distribution of propane. Such plants have bulk storage or container filling or vehicle transfer facilities on the premises. Bulk plants are considered part of this category.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.fitting",
+    "title": "Fitting",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an item in a piping or tubing system that is used as a means of connection, such as an elbow, return bend, tee, union, bushing, coupling, cross, or nipple; the term does not include such functioning items as a valve or pressure regulator.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.flue",
+    "title": "Flue",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an enclosed passageway for conveying flue gases.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.flue_gases",
+    "title": "Flue gases",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "combustion products and excess air.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.furnace",
+    "title": "Furnace",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an indirect-fired, flue-connected, space-heating appliance that uses warm air as the heating medium and usually has provision for the attachment of ducts.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.garage",
+    "title": "Garage",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "3.gas_cartridge",
+    "title": "Gas cartridge",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a non-refillable container meeting the requirements for 2P, 2P2, or 2Q gas cartridges for containment and transportation of propane under Transport Canada's Transportation of Dangerous Goods Regulations.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.gauge",
+    "title": "Gauge (when referring to the liquid level in containers)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "3.hose",
+    "title": "Hose (gas hose)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a flexible conduit.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.ignition",
+    "title": "Ignition",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the establishment of a flame.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.installer",
+    "title": "Installer",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "any individual, firm, corporation, or company that either directly or through a representative is engaged in the installation, replacement, repair, or servicing of propane piping, venting systems, appliances, components, accessories, or equipment, and whose representative is either experienced or trained, or both, in such work and has complied with the requirements of the authority having jurisdiction.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.kiosk",
+    "title": "Kiosk",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a structure that has an area of less than 100 ft² (9.3 m²) located on a propane dispenser or vehicle fuel dispenser island that provides shelter and contains the necessary equipment to permit a person to perform his or her duties.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.mechanical_air_intake",
+    "title": "Mechanical air intake",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a means to mechanically provide ventilation and/or combustion air requirements to a building.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.mobile_housing",
+    "title": "Mobile housing",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a term that includes all of the following structures:",
+    "type": "clause"
+  },
+  {
+    "clause": "3.noncombustible",
+    "title": "Noncombustible",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "material that conforms to CAN/ULC-S114 requirements for noncombustibility.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.overfill_prevention_device",
+    "title": "Overfill prevention device",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a safety device that is designed to provide an automatic means to prevent the filling of a container in excess of the maximum permitted filling limit.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.pilot",
+    "title": "Pilot",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a flame that is used to ignite a gas/air or propane/air mixture at the main burner(s).",
+    "type": "clause"
+  },
+  {
+    "clause": "3.point_of_transfer",
+    "title": "Point of transfer",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the dispensing hose inlet connection.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.pol",
+    "title": "POL",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a commonly employed fitting used for propane and meeting the requirements for Connection No. 510 as specified in CGA V-1.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.propane_dispenser",
+    "title": "Propane dispenser",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "an assembly intended to dispense liquid propane and controlled by a human operator. The assembly can include a pressure relief device (PRD), vapour separator, strainer, metering assembly, meter register (mechanical or electronic), control valves, hose, hose nozzle, controls (mechanical or electronic), interlocking mechanism, locking mechanism, weigh scale, and associated wiring, piping fittings, and housing.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.purge",
+    "title": "Purge",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "to replace the existing fluid (gaseous or liquid) in piping, tubing, equipment, a container, or an appliance with a desired fluid.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.quick_disconnect_device",
+    "title": "Quick-disconnect device",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a hand-operated device that is used for connecting and disconnecting either an appliance or an appliance connector to a propane supply and that is equipped with an automatic means to shut off the propane supply when the device is disconnected.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.readily_accessible",
+    "title": "Readily accessible",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "capable of being reached quickly for operation, renewal, servicing, or inspection, without requiring climbing over, or the removal of, an obstacle or the use of a portable ladder.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.recreational_vehicle",
+    "title": "Recreational vehicle",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a portable structure intended as temporary accommodation for travel, vacation, or recreational use. Such structures include a chassis-mounted camper, motorized home, slide-in camper, tent trailer, or travel trailer.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.regulator",
+    "title": "Regulator",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "3.relief_device",
+    "title": "Relief device",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device designed to open to prevent a rise of propane pressure in excess of a specified value due to an emergency or abnormal conditions.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.safety_limit_control",
+    "title": "Safety limit control",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a safety control intended to prevent an unsafe condition of temperature, pressure, or liquid level.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.self_service_vehicle_fuel_dispenser",
+    "title": "Self-service vehicle fuel dispenser",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a vehicle fuel dispenser for use by the public for conducting dispensing operations.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.set_pressure",
+    "title": "Set pressure",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the start-to-discharge pressure for which a relief valve is set and marked.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.structure",
+    "title": "Structure",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the entire building in which an appliance is installed.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.tank",
+    "title": "Tank (with respect to propane storage)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the class of container for the storage of propane, designed and fabricated in accordance with CSA B51.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.tank_trailer",
+    "title": "Tank trailer",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a unit on which a tank of not more than 2000 USWG (7500 L) capacity is permanently mounted on a chassis and is towed by another vehicle.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.tank_truck",
+    "title": "Tank truck",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a truck chassis and tank assembly as a complete unit for the bulk delivery of propane.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.underground_tank",
+    "title": "Underground tank",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a tank that is buried completely or partly below the ground level and covered with earth, sand, or other material or mounded partly below the ground level or above ground level and covered with earth, sand, or other material.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.valve",
+    "title": "Valve",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device by which the flow of a fluid can be started, stopped, or regulated by a movable part that opens or obstructs passage.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.vaporizer",
+    "title": "Vaporizer",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a device for converting liquid propane to vapour by means other than atmospheric heat transfer through the surface of the container.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.vehicle_fuel_dispenser",
+    "title": "Vehicle fuel dispenser",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "a propane dispenser, specifically for dispensing liquid propane by volume into containers.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.vent",
+    "title": "Vent",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "that portion of a venting system designed to convey flue gases directly to the outdoors from either a vent connector or an appliance when a vent connector is not used.",
+    "type": "clause"
+  },
+  {
+    "clause": "3.ventilation",
+    "title": "Ventilation (with respect to the space in which an appliance is installed)",
+    "section": "3",
+    "section_title": "Definitions",
+    "description": "the removal of inside air, leaked or spilled products of combustion, or flue gases from the space in which an appliance is installed to outside the space, and the replacement of same by air from outside the space.",
+    "type": "clause"
+  },
+  {
+    "clause": "4.1",
+    "title": "Application",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.1.1",
+    "title": "Propane and butane requirements",
+    "section": "4",
+    "section_title": "General",
+    "description": "For the purposes of this Code, the requirements contained in CAN/CGSB-3.14 for propane or CAN/CGSB-3.13 for butane shall apply.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.1.2",
+    "title": "Code conflicts",
+    "section": "4",
+    "section_title": "General",
+    "description": "When a specification or document referenced in Clause 2 contains a requirement that conflicts with a requirement in this Code, the requirement in this Code shall govern, except in the case of Canadian (federal), provincial, or territorial regulations.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.1.3",
+    "title": "Installation instructions",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance, an accessory, a component, equipment, or any other item shall be installed in accordance with the manufacturer's certified installation instructions and with this Code.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.1.4",
+    "title": "Conflicts",
+    "section": "4",
+    "section_title": "General",
+    "description": "Where a conflict exists between the manufacturer's installation instructions and this Code, the requirements of this Code shall prevail unless otherwise approved.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.2",
+    "title": "Approval of appliances, accessories, components, equipment, and material",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.2.1",
+    "title": "Installation",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance, an accessory, a component, equipment, or material used in an installation shall be of a type and rating approved for the specific purpose for which it is employed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.2.2",
+    "title": "Deviation",
+    "section": "4",
+    "section_title": "General",
+    "description": "When deviation from or postponement of these requirements is necessary, permission in writing shall be obtained from the authority having jurisdiction before the work proceeds, and this permission shall apply only to the particular installation for which it is given.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.2.3",
+    "title": "Assembly or construction approval",
+    "section": "4",
+    "section_title": "General",
+    "description": "The approval of the assembly or construction of an appliance is subject to the authority having jurisdiction. (CSA B149.3 contains provisions for assembly and construction of appliances.)",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3",
+    "title": "Responsibilities of the installer",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.3.1",
+    "title": "Initial installation",
+    "section": "4",
+    "section_title": "General",
+    "description": "Before leaving installations, installers shall ensure that the appliance, accessory, component, or equipment they installed complies with the Code requirements, and the person initially activating the appliance shall ensure that the appliance is in safe working order.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3.2",
+    "title": "Operation instruction",
+    "section": "4",
+    "section_title": "General",
+    "description": "Installers shall instruct the user in the safe and correct operation of all appliances or equipment that they install.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3.3",
+    "title": "Manufacturer instructions",
+    "section": "4",
+    "section_title": "General",
+    "description": "The installer shall ensure that the manufacturer's instructions supplied with the appliance are left with the user.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3.4",
+    "title": "Replacement parts",
+    "section": "4",
+    "section_title": "General",
+    "description": "Before installing a replacement part of an appliance, the installer shall ensure that the replacement part provides operational characteristics at least equivalent to those of the original part.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3.5",
+    "title": "Piping or tubing system pressure tests",
+    "section": "4",
+    "section_title": "General",
+    "description": "It shall be the responsibility of the installer of a piping or tubing system to perform pressure tests in accordance with Clause 6.22.2 of CSA B149.1 and to ensure that the piping or tubing system is gas-tight at the completion of the tests.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.3.6",
+    "title": "Gas tight test",
+    "section": "4",
+    "section_title": "General",
+    "description": "It shall be the responsibility of the installer of an appliance to perform tests in accordance with Clause 6.22.3 of CSA B149.1 and to ensure that the system is gas-tight at the completion of the tests.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.4",
+    "title": "Training and quality of labour",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.4.1",
+    "title": "Work quality",
+    "section": "4",
+    "section_title": "General",
+    "description": "All work shall be done in a skillful, thorough manner. Careful attention shall be paid not only to the mechanical execution of the work but also to the arrangement of the installation.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.4.2",
+    "title": "Training",
+    "section": "4",
+    "section_title": "General",
+    "description": "Personnel performing installation, operation, and maintenance work shall be properly trained in such functions.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.5",
+    "title": "Suitability of use",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.5.1",
+    "title": "Type of gas and pressure",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance shall not be installed unless it is designed for use with the type of gas to which it is to be connected and is suitable for the pressure supplied.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.5.2",
+    "title": "Hazards",
+    "section": "4",
+    "section_title": "General",
+    "description": "The use of an appliance, an accessory, a component, equipment, or material shall be prohibited where a hazard is created.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.5.3",
+    "title": "Damaged appliances",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance that has been exposed to fire, explosion, flood, or other damage shall not be offered for sale, installed, reactivated, or reconnected to the supply until the appliance has been inspected by a person acceptable to the authority having jurisdiction.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.5.4",
+    "title": "Used appliances",
+    "section": "4",
+    "section_title": "General",
+    "description": "Before reconnection to supply piping or tubing, a used appliance shall be inspected and determined by the installer to be safe for continued use.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.6",
+    "title": "Electrical connections and components",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.6.1",
+    "title": "Code requirements",
+    "section": "4",
+    "section_title": "General",
+    "description": "Electrical connections between an appliance and building wiring shall comply with the local electrical code or, in the absence of such, with the Canadian Electrical Code, Part I.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.6.2",
+    "title": "Electrical circuits",
+    "section": "4",
+    "section_title": "General",
+    "description": "An electrical circuit employed for operating an automatic main control valve, automatic pilot, room-temperature thermostat, safety limit control, or another electrical device used with an appliance shall be in accordance with the appliance wiring diagram.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.7",
+    "title": "Hazardous and corrosive locations",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.7.1",
+    "title": "Installation",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance shall not be installed in a room that has an atmosphere containing vapours corrosive to an appliance or venting system.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.7.2",
+    "title": "Approved installation",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance, unless certified or approved for installation in a hazardous location, shall not be installed in a location where a flammable vapour, combustible dust or fibres, or an explosive mixture is present.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.8",
+    "title": "Smoking",
+    "section": "4",
+    "section_title": "General",
+    "description": "Smoking or providing any other source of ignition shall not be permitted in the area where work is being done on piping, tubing, or equipment that either contains or has contained propane, unless the piping, tubing, or equipment has been purged of all propane as outlined in Clause 6.23 of CSA B149.1.",
+    "type": "clause"
+  },
+  {
+    "clause": "4.9",
+    "title": "Isolation of safety devices",
+    "section": "4",
+    "section_title": "General",
+    "description": "Isolating or rendering inoperative a safety shut-off valve, safety limit control, or relief device shall be prohibited.",
+    "type": "clause"
+  },
+  {
+    "clause": "4.10",
+    "title": "Leak detection",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.10.1",
+    "title": "Sources of ignition",
+    "section": "4",
+    "section_title": "General",
+    "description": "A match, candle, flame, or other source of ignition shall not be used to check for a propane leak.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.10.2",
+    "title": "Light and/or flashlight use",
+    "section": "4",
+    "section_title": "General",
+    "description": "A light, including a flashlight, used in connection with a search for propane leakage shall be suitable for Group IIA hazardous locations.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.10.3",
+    "title": "Electrical switches",
+    "section": "4",
+    "section_title": "General",
+    "description": "An electric switch either in or adjacent to an area of propane leakage shall not be operated unless it is suitable for Group IIA hazardous locations.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.11",
+    "title": "Appliance clearances to combustible material",
+    "section": "4",
+    "section_title": "General",
+    "description": "Appliance clearances to combustible material shall be in accordance with Clause 4.13 of CSA B149.1.",
+    "type": "clause"
+  },
+  {
+    "clause": "4.12",
+    "title": "Accessibility",
+    "section": "4",
+    "section_title": "General",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "4.12.1",
+    "title": "Installation",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance shall be installed so that it is accessible for servicing.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.12.2",
+    "title": "Service clearances",
+    "section": "4",
+    "section_title": "General",
+    "description": "An appliance shall be installed with a minimum service clearance of 24 in (61 cm) from any side, top, or bottom where service could be necessary, except where a) a greater distance is indicated on the appliance rating plate; or b) the distance is not sufficient for the removal, replacement, or repair of a component, an accessory, or any equipment forming either an integral part of the appliance or connected to the appliance, in which case minimum service clearance shall be provided that is adequate to effect such removal, replacement, or repair.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.12.3",
+    "title": "Access dimensions",
+    "section": "4",
+    "section_title": "General",
+    "description": "An access opening with minimum dimensions of 24 x 30 in (61 cm x 76 cm) shall be provided to the space in which an appliance is located.",
+    "type": "subclause"
+  },
+  {
+    "clause": "4.12.4",
+    "title": "Appliance passageway",
+    "section": "4",
+    "section_title": "General",
+    "description": "A clear and unobstructed passageway at least 36 in (91 cm) high and 36 in (91 cm) wide shall be provided to each appliance.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.1",
+    "title": "Odourization",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "5.1.1",
+    "title": "Propane for fuel purposes",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Propane distributed for fuel purposes shall be odourized in accordance with CAN/CGSB-3.14.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.1.2",
+    "title": "Responsibility for odourization",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Odourization of the propane shall be the responsibility of the producer or processor, who shall indicate on the shipping document its compliance with CAN/CGSB-3.14.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2",
+    "title": "Container filling",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "5.2.1",
+    "title": "Propane transfers",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Propane shall only be transferred from one container to another by a person who is the holder of a certificate recognized by the authority having jurisdiction.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.2",
+    "title": "Attending propane transfers",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "While propane is being transferred from one container to another, the person transferring shall remain at the container being filled.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.3",
+    "title": "Container limitations",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Propane shall not be put into a) a cylinder, aerosol container, or gas cartridge specifically designed for butane or one that does not conform with the requirements of CSA B340 or CGSB 43.123, respectively; or b) a tank specifically designed for butane or one having a MAWP of less than 250 psig (1.72 MPa).",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.4",
+    "title": "Refuelling outlet responsibility",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "The owner and/or license holder of a container refill centre, card/key lock, or fleet vehicle refuelling outlet shall be held responsible for ensuring compliance with the requirement of Clause 5.2.1.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.5",
+    "title": "Anhydrous ammonia",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A container having brass equipment designed for propane use shall not be used for anhydrous ammonia. Except as permitted by the requirements of CSA B340, when steel equipment is installed on the container and the container has been used with anhydrous ammonia, it may be used for propane if purged in accordance with Clause A.1.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.6",
+    "title": "Container filling",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "The person filling a container shall be responsible for ensuring that the maximum permitted filling density is not exceeded.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.7",
+    "title": "Container filling locations",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A container shall not be filled or gauged a) inside a building, other than a building designed for such purpose; b) in a location that is not well ventilated; c) within 10 ft (3 m) measured horizontally from the air intake of any appliance or air-moving equipment; or d) within 10 ft (3 m) measured horizontally from any source of ignition.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.8",
+    "title": "Container purging",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A new container, or one from which the propane atmosphere has been removed, shall be purged.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.9",
+    "title": "Removing liquid contents",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "When a container is repaired, requalified, or scrapped, its liquid contents shall only be removed by flaring or by transferring to another container.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.10",
+    "title": "Purging",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Cylinders and motor fuel containers shall be purged in accordance with Clause 6.4.1 of this Code and with CSA B149.5.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.11",
+    "title": "Propane-fuelled motor vehicles",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A propane-fuelled motor vehicle shall not be refuelled unless a) it is a vehicle identified as meeting the Motor Vehicle Safety Regulations, Standard 301, for factory-equipped vehicles; or b) it meets the requirements of Clause 5.2.1 of CSA B149.5.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.2.12",
+    "title": "Safe purging",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Cylinders and motor fuel containers shall not be purged within 10 ft (3 m), measured horizontally, of a) a building, except for a building approved for the purposes; b) a property line; c) a source of ignition; or d) the air intake of any appliance or air-moving equipment.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.3",
+    "title": "Protection of containers and equipment",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "5.3.1",
+    "title": "Protection against damage",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Valves, pressure regulators, gauges, piping, tubing, gas hose, and other equipment shall be protected against damage.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.3.2",
+    "title": "Protection from motor vehicle damage",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "When containers are installed or stored in locations that do not afford protection from damage from motor vehicles on a street, highway, avenue, alley, or parking lot, they shall be protected by posts or guardrails in compliance with Clause 7.19.4 unless otherwise approved by the authority having jurisdiction.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.3.3",
+    "title": "Readily ignitable materials",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "Readily ignitable materials, including weeds and long dry grass, shall be removed from the area within 10 ft (3 m) of a container, and this area shall be kept clear of such material at all times.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.3.4",
+    "title": "Plugging service valve outlets",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "When a distributor-owned container is disconnected by the distributor and left on a customer's property, all container service valve outlets shall be plugged.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.4",
+    "title": "Pressure regulators",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "5.4.1",
+    "title": "Pressure regulator size",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A pressure regulator shall be of sufficient size to provide the required flow rate of propane at the extremes of inlet pressures to which the regulator can be exposed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.4.2",
+    "title": "Securement and protection of pressure regulators",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A pressure regulator shall be firmly secured to the container valve or a regulator bracket on the wall or container dome, or be otherwise secured. When installed outdoors and subject to inclement weather, the pressure regulator shall be protected from exposure to weather conditions.",
+    "type": "subclause"
+  },
+  {
+    "clause": "5.4.3",
+    "title": "Regulators installed outdoors",
+    "section": "5",
+    "section_title": "General requirements for propane and propane equipment",
+    "description": "A regulator installed outdoors or in an unheated area shall be positioned so that the bonnet vent opening discharges vertically downward, except that a) when installed within a container dome, the vent opening shall be positioned downward not less than 15° from the horizontal; and b) a single-stage pressure regulator with an input rate not exceeding 150 000 Btuh (44 kW) may be installed in a horizontal position, provided that it is protected from inclement weather.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.1",
+    "title": "Requirements for cylinders",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "6.1.1",
+    "title": "Refillable cylinders",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "Refillable cylinders shall be manufactured, tested, inspected, requalified, and marked in accordance with the requirements of CSA B339. Non-refillable cylinders shall either be TC 39M as per Clause 6.1.3 or TC specification 2P, 2Pl, 2P2, 2Q, 2Q2, and 2R as per Clause 6.1.4.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.1.2",
+    "title": "Overfill prevention device",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "Except for the following, refillable vapour service cylinders manufactured after January 1, 2008, with a capacity of 4 lb (1.8 kg) through 40 lb (18.1 kg) shall be equipped with an overfill prevention device in compliance with UL 2227: a) cylinders used in industrial truck service; and b) cylinders identified and used for industrial welding and cutting gases.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.1.3",
+    "title": "Specification TC 39M",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "Specification TC 39M non-refillable cylinders shall be manufactured, tested, inspected, and marked in accordance with the requirements of CSA B339.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.1.4",
+    "title": "Specification TC 2P, 2P1, 2P2, ZR, 2Q and 2Q2",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "TC Specification 2P, 2Pl, 2P2, 2R, 2Q, and 2Q2 non-refillable aerosol containers shall be manufactured, tested, inspected, and marked in accordance with the requirements of CGSB-43.123.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.2",
+    "title": "Liquid-level gauges on cylinders",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "6.2.1",
+    "title": "Atmospheric bleeding",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "A liquid level gauge that requires the bleeding of propane to the atmosphere, such as a rotary, fixed-liquid-level, or slip-tube type, shall be designed so that any bleed valve opening is not larger than a No. 54 drill size (1.4 mm) unless it is provided with an excess-flow valve.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.2.2",
+    "title": "Fixed-liquid-level gauge",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "The length of the dip tube of a fixed-liquid-level gauge shall indicate the maximum level to which a cylinder may be filled.",
+    "type": "subclause"
+  },
+  {
+    "clause": "6.2.3",
+    "title": "Fixed-liquid-level gauge marking",
+    "section": "6",
+    "section_title": "Cylinder systems",
+    "description": "When a fixed-liquid-level gauge is used, the length of the dip tube in millimeters, prefixed with the letters 'DT', and followed by the letters 'mm', shall be stamped on the exterior of the valve to which the dip tube is connected and on the cylinder in accordance with CSA B339.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.1",
+    "title": "General",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.1.1",
+    "title": "Tank MAWP",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Subject to Clause 5.2.3 b), a tank shall have a MAWP of not less than 250 psig (1.72 MPa) and the tank and its PRD shall be in compliance with CSA B51 and applicable provincial or territorial regulations covering unfired pressure vessels.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.1.2",
+    "title": "Approved tank welding",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Welding shall not be done to the shell, head, or any other part of a tank subject to internal pressure, except with the approval and under the supervision of the boiler and pressure vessel inspection authority of the province or territory in which it is installed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.1.3",
+    "title": "Tank field welding",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Field welding of a tank shall be made only on saddle plates or brackets supplied by the manufacturer of the tank.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.1.4",
+    "title": "Tank paint",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Every steel tank shall be kept painted.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.1.5",
+    "title": "Tank location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank with a capacity in excess of 2000 USWG (7500 L) shall not be installed a) under an electrical transmission line and shall be located a minimum horizontal distance from any such line equal to the property clearance requirements of Clauses 7.10.3 and 7.16; b) under an electrical distribution line and shall be located not less than 25 ft (7.6 m) in any direction from any such line; and c) over an underground electrical distribution line and shall be located not less than 5 ft (1.5 m) from any such line.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.2",
+    "title": "Relief valves",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.2.1",
+    "title": "Approved relief valve",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank shall be equipped with a properly sized, spring-loaded relief valve that meets the requirements of the provincial or territorial authority where it is to be installed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.2.2",
+    "title": "Relief valve location on tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "All relief valves shall have direct communication with the vapour space of tanks.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.2.3",
+    "title": "Relief valve pressure setting adjustment protection",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "All relief valves shall be so arranged that the possibility of tampering will be minimized. If the pressure setting or adjustment is by external means, the relief valve shall be provided with means for sealing the adjustment.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.2.4",
+    "title": "Shut-off valve or other device location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A shut-off valve or other device shall not be installed between a relief valve and a tank, except a) that a shut-off valve may be used when the full required flow capacity is maintained through another relief valve; or b) an integrated management system from the manufacturer shall be established that controls the operation of the isolation valve that does not inhibit the operation of the PRV while installed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.2.5",
+    "title": "Relief valve rain cap",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A loose-fitting rain cap shall be provided for all tank relief valves.",
+    "type": "subclause"
+  },
+  {
+    "clause": "7.3",
+    "title": "Emergency shut-off valves",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.1",
+    "title": "Tank truck or cargo liner",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An emergency shut-off valve shall be installed at all tank truck or cargo liner transfer locations where a) the tank has a capacity in excess of 5000 USWG (18 900 L); or b) tanks are manifolded together, utilizing a common or manifolded liquid transfer line, and the tanks have an aggregate volume in excess of 5000 USWG (18 900 L).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.2",
+    "title": "Linear pipe",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When an emergency shut-off valve is required by Clause 7.3.1, it shall be installed within 20 ft (6.1 m) of linear pipe from the terminal end of the hose or swivel-type piping.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.3",
+    "title": "Back check valve",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When the propane flow is only in one direction, a back check valve may be used in lieu of an emergency shut-off valve, provided that the back check valve is installed in the fixed piping downstream of the hose or swivel-type piping.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.4",
+    "title": "Temperature-sensitive element",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An emergency shut-off valve shall be installed so that the temperature-sensitive element in the valve or a supplemental temperature-sensitive element that has a melting point not in excess of 250 deg F (120 deg C) is connected to actuate the valve in case of fire and is located not more than 5 ft (1.5 m) from the nearest end of the hose or swivel-type pipe connected to the line in which the valve is installed.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.5",
+    "title": "Plant piping",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An emergency shut-off valve and back check valve shall be installed in the plant piping to ensure that any break resulting from a pull occurs on the hose or swivel-type piping side of the connection while retaining the valves and piping intact on the plant side of the connection.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.6",
+    "title": "Means of closure",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An emergency shut-off valve shall incorporate all of the following means of closure: a) automatic shut-off through thermal actuation; b) manual shut-off from a remote location; and c) manual shut-off at the installed location.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.7",
+    "title": "Secure anchorage",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Secure anchorage for all emergency shut-off valves shall be provided in the form of designed bulkheads of reinforced concrete or steel.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.8",
+    "title": "Manufacturer's installation requirements",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Installation of a system incorporating an emergency shut-off valve shall be in accordance with the installation requirements of the manufacturer of the components of the system.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.3.9",
+    "title": "Shear point",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A shear point shall be designed in the piping downstream of an emergency shut-off valve and the bulkhead anchorage.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4",
+    "title": "Excess-flow and back check valves",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.1",
+    "title": "Tank openings",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Subject to Clauses 7.4.2 to 7.4.4 and 7.5.2, each tank opening utilized for propane flow shall be equipped with an excess-flow valve sized for the application or a back check valve. A combination excess-flow valve and back check valve designed for liquid evacuation shall not be acceptable for this purpose.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.2",
+    "title": "Tanks greater than 125 USWG (475 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank greater than 125 USWG (475 L) capacity that does not have a valve that can be used for liquid evacuation shall be provided with a plugged-type combination excess-flow valve and back check valve designed for this purpose, the size of which shall be not less than NPS 3/4. A plugged tank opening shall not be acceptable for this purpose.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.3",
+    "title": "Vapour withdrawal service piping",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An excess-flow valve shall not be required in the vapour withdrawal service piping from a tank when a) the discharge from a service outlet is controlled by a shut-off valve; b) i) threaded directly into the service outlet of the tank; or ii) that is an integral part of, or threaded directly into, a heavy-duty fitting that is threaded into or on the service outlet of the tank; c) the shut-off valve is equipped with an attached hand-wheel or equivalent; and d) the controlling orifice between the contents of the tank and the outlet of the tank shut-off valve does not exceed 5/16 in (8 mm) in diameter.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.4",
+    "title": "Quick-closing internal valve option",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Instead of using an excess-flow valve, a tank opening may be fitted with a quick-closing internal valve that, except during operating periods, shall remain closed. The internal mechanism for the valve shall be provided with secondary controls, consisting of a fusible link or plug with a melting point of not more than 220 deg F (105 deg C), that shall cause the internal valve to close in case of fire.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.5",
+    "title": "Filled on a volumetric basis",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank of 2000 USWG (7500 L) capacity or less, filled on a volumetric basis, shall be equipped for filling into the vapour space.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.6",
+    "title": "Tanks with a capacity in excess of 200 lb (90 kg) of propane",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The filling connection of every tank with a capacity in excess of 200 lb (90 kg) of propane shall be equipped with one of the following: a) an approved excess-flow and an excess-flow valve; b) one double or two single back check valves, one set of which shall be other than the metal-to-metal seat type; or c) a valve of the positive shut-off type in conjunction with either an internal excess-flow valve or an internal back check valve.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.7",
+    "title": "Tanks with a capacity of 200 lb (90 kg) of propane or less",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank with a capacity of 200 lb (90 kg) of propane or less installed outside a building may have the filling connection equipped with a single back check valve other than the metal-to-metal seat type.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.4.8",
+    "title": "Line flow rate",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Any line utilized for propane flow shall have a flow rate greater than the design flow rate of the excess-flow valve protecting the line.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.5",
+    "title": "Pressure gauges on tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.5.1",
+    "title": "Tank of 2000 USWG (7500 L) capacity or over",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Every storage tank of 2000 USWG (7500 L) capacity or over shall be provided with a pressure gauge.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.5.2",
+    "title": "Restricted pressure gauge allowance",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A nozzle opening in a tank or a through-fitting attached directly on a tank to which a pressure gauge connection is made need not be equipped with a shut-off or excess-flow valve if such an opening is restricted to not larger than a No. 54 drill size (1.4 mm).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6",
+    "title": "Liquid-level gauges on tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6.1",
+    "title": "Gauge type",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Each tank shall be equipped with at least one gauge of the rotary, slip-tube, or fixed-liquid-level type.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6.2",
+    "title": "Float-type gauge",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A gauge of the float type need not be equipped with an excess-flow valve.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6.3",
+    "title": "Liquid-level gauge bleeding",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Liquid-level gauges, such as rotary, fixed-liquid-level, or slip-tube types, that require the bleeding of propane to the atmosphere shall be so designed that no bleed valve opening is larger than a No. 54 drill size (1.4 mm) unless provided with an excess-flow valve.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6.4",
+    "title": "Dip tube length",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The length of a dip tube of a fixed-liquid-level gauge shall indicate the maximum liquid level to which a tank may be filled.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.6.5",
+    "title": "Dip tube stamping",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a fixed-liquid-level gauge is used on a tank, the length of the dip tube, prefixed with the letters \"DT\", shall be stamped on the exterior of the gauge and on the tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7",
+    "title": "Filling of tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.1",
+    "title": "Rotary, slip-tube, or equivalent type gauge filling density",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a rotary, slip-tube, or equivalent type gauge is used, the filling density shall not exceed that specified in Table 7.1.\n\n[Table 7.1]\nTable 7.1 - Maximum permitted filling density of a tank by liquid volume (rotary or slip-tube gauge)\n(See Clause 7.7.1 and Table 6.2.)\n| Temperature of liquid, deg F | Temperature of liquid, deg C | Propane relative density 0.51 - 0-1200 USWG (0-4500 L), % | Propane relative density 0.51 - Over 1200 USWG (over 4500 L), % | Butane relative density 0.58 - 0-1200 USWG (0-4500 L), % | Butane relative density 0.58 - Over 1200 USWG (over 4500 L), % |\n| --- | --- | --- | --- | --- | --- |\n| -50 | (-45) | 71.4 | 76.7 | 79.1 | 83.8 |\n| -40 | (-40) | 72.2 | 77.6 | 79.9 | 84.6 |\n| -30 | (-35) | 73.0 | 78.5 | 80.5 | 85.3 |\n| -20 | (-29) | 73.9 | 79.4 | 81.2 | 86.0 |\n| -10 | (-23) | 74.9 | 80.4 | 82.0 | 86.8 |\n| 0 | (-18) | 75.7 | 81.4 | 82.7 | 87.6 |\n| 10 | (-12) | 76.7 | 82.4 | 83.5 | 88.4 |\n| 20 | (-7) | 77.6 | 83.4 | 84.4 | 89.3 |\n| 30 | (-1) | 78.7 | 84.6 | 85.2 | 90.2 |\n| 40 | (4) | 79.9 | 85.8 | 86.1 | 91.2 |\n| 50 | (10) | 81.0 | 87.2 | 87.0 | 92.1 |\n| 60 | (16) | 82.0 | 88.6 | 87.9 | 93.1 |\n| 70 | (21) | 83.7 | 90.1 | 88.9 | 94.1 |\n| 80 | (27) | 85.1 | 91.6 | 89.9 | 95.2 |\n| 90 | (32) | 86.8 | 93.3 | 90.9 | 96.3 |\n| 100 | (38) | 88.4 | 95.3 | 92.1 | 97.6 |",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.2",
+    "title": "Fixed-liquid-level gauge filling density",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a fixed-liquid-level gauge is used on an above-ground storage tank, the filling density shall not exceed that specified in Table 7.2.\n\n[Table 7.2]\nTable 7.2 - Maximum permitted filling density of a tank by liquid volume (fixed-liquid-level gauge)\n(See Clause 7.7.2.)\n| Temperature of liquid, deg F | Temperature of liquid, deg C | Propane relative density 0.51 - 0-1200 USWG (0-4500 L), % | Propane relative density 0.51 - Over 1200 USWG (over 4500 L), % | Butane relative density 0.58 - 0-1200 USWG (0-4500 L), % | Butane relative density 0.58 - Over 1200 USWG (over 4500 L), % |\n| --- | --- | --- | --- | --- | --- |\n| 40 | (4) | 79.9 | 85.8 | 86.1 | 91.2 |",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.3",
+    "title": "Tanks with under 300 lb (135 kg) water capacity",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank with under 300 lb (135 kg) water capacity may be filled by weight in accordance with Clause 6.4.2 a).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.4",
+    "title": "Discharge to atmosphere exception",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Propane in vapour or liquid phase shall not be discharged to the atmosphere to assist in transferring the contents of one tank to another, except to a container with a maximum capacity of 5 lb (2.5 kg) of propane or less. Venting for the purpose of gauging at the liquid-level gauge shall be permitted as described in Clause 7.6.3.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.5",
+    "title": "Filling outdoors",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank shall be gauged and filled outdoors or in a building designed for such a purpose.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.7.6",
+    "title": "Tank and support damage, deterioration, or incorrect installation",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank and its supports that show evidence of damage, deterioration, or incorrect installation shall not be filled.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8",
+    "title": "Installation of underground tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.1",
+    "title": "General",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An underground propane tank shall only be installed in accordance with the manufacturer's installation instructions and Clause 7.8.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.2",
+    "title": "Tank manufacturer",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank to be installed underground shall be designed and identified by the tank manufacturer for underground service and shall be provided with means for placing it into position without damage to the tank or its protective coating. Any damage to the coating shall be repaired in accordance with the manufacturer's instructions before backfilling.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.3",
+    "title": "Cathodic protection",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Buried or submerged surfaces of tanks, piping, and fittings shall be cathodically protected by impressed current or by the use of sacrificial anodes supplied and sized by the tank manufacturer or shall be designed by a registered professional engineer accredited by the National Association of Corrosion Engineers (NACE).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.4",
+    "title": "Sacrificial anodes",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "If cathodic protection is provided by the use of sacrificial anodes, a) the outer surface of the tank shall be blast cleaned so that all surfaces are free from dirt, grease, and loose material; b) the outer surface of the tank shall be coated with a compound conforming to the requirements of either CAN/ULC-S603.1, CAN/CGSB-1.184, or UL 1746; c) the outer surface of the tank shall be coated with a compound recommended by the manufacturer to meet the requirements listed in item b); and d) the cathodic protection design criteria shall include a current density of 11.58 mA/ft2 (125 mA/m2) applied on the coated structure's surface.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.5",
+    "title": "Impressed current",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "If cathodic protection is provided by the use of impressed current, the tank, piping, and fittings need not be coated.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.6",
+    "title": "Designed continuous operation",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Cathodic protection shall be designed and operated to continuously maintain a minimum potential on all buried or submerged surfaces of -850 mV as measured with respect to a copper/copper sulphate reference electrode.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.7",
+    "title": "Corrosion-control monitoring",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Corrosion-control monitoring shall be done on an annual basis to ensure that the requirement specified in Clause 7.8.6 is satisfied using a copper/copper sulphate reference electrode. Measurement of impressed current systems shall be made by means of a permanently installed meter clearly marked to meet the requirement of Clause 7.8.6. Records of test results shall be maintained.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.8",
+    "title": "Dielectric isolation",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The tank, piping, and fittings shall be dielectrically isolated from other metal structures by the use of dielectric unions, couplings, flange sets, or specially made isolating fittings. To accommodate electrical system grounding to the pump, either a dielectric union or coupling shall be provided or the pump shall be dielectrically isolated from the tank and piping. Note: Non-metallic tubing installed between metallic piping and an underground tank is acceptable as a dielectric joint.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.9",
+    "title": "Manufacturer's installation instructions",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An underground tank shall be installed in accordance with the manufacturer's installation instructions and be set on a firm foundation and surrounded with sand firmly tamped into place. The foundation shall be made of a) 12 in (300 mm) of firmly tamped sand; or b) 6 in (150 mm) of firmly tamped sand over a concrete base. At least 12 in (300 mm) of firmly tamped sand backfill, free of rocks and gravel, shall surround all surfaces of the tank. See Annex H.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.10",
+    "title": "Tank flotation prevention",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Where flooding conditions can occur, an underground tank shall be securely anchored or weighted to prevent flotation.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.11",
+    "title": "Tank protection",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The minimum distance between the top of an underground tank and grade shall be in accordance with Table 7.3. Cover slabs shall extend at least 12 in (300 mm) beyond the tank perimeter on all sides. Adequate protection in the form of fencing, guardrails, or bumper posts that comply with the requirements of Clause 7.19.4 shall be provided for the above-ground piping system and relief valve exhaust stacks to prevent abrasive action or physical damage from vehicular traffic. See Annex N.\n\n[Table 7.3]\nTable 7.3 - Underground tanks - Minimum distance between top of tank and grade, in (mm)\n(See Clause 7.8.11.)\n| Location | Minimum distance between top of tank and grade, in (mm) |\n| --- | --- |\n| Nontraffic area | One of the following: a) 14 (350) soil cover; or b) 12 (300) soil cover plus 4 (100) concrete cover for a total cover of 16 (400). |\n| Traffic area | One of the following: a) 36 (900) soil cover; b) 18 (450) soil cover plus 6 (150) concrete cover for a total cover of 24 (600); or c) 18 (450) soil cover plus 8 (200) asphaltic cover for a total cover of 26 (650). |",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.12",
+    "title": "Location of a tank with a capacity of 2000 USWG (7500 L) or less",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An underground storage tank with a capacity of 2000 USWG (7500 L) or less shall be located a minimum distance of a) 5 ft (1.5 m) from a line of adjoining property that cannot be built upon, or from other underground services; and b) 10 ft (3 m) from a line of adjoining property that can be built upon, from a building, or from another underground tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.13",
+    "title": "Location of a tank with a capacity greater than 2000 USWG (7500 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An underground storage tank with a capacity greater than 2000 USWG (7500 L) shall be located at a minimum distance of a) 5 ft (1.5 m) from other underground services; b) 10 ft (3 m) from another underground tank; and c) 50 ft (15.2 m) from a line of adjoining property or a building.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.14",
+    "title": "Connections and terminals",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Connections to a tank installed underground shall be located within a covered dome, housing, or curb box. Underground systems shall be installed so that all terminals for connecting filling hoses and any opening through which there can be flow from a safety relief valve or pressure regulator vent are located above the normal maximum water table. Terminals for connecting filling hoses, openings for flow from safety relief valves, and the interior of domes, housings, and curb boxes shall be kept clean of debris and shall be provided with ventilated louvres or their equivalent.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.15",
+    "title": "Dome, housing, or curb box sizing",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A dome, housing, or curb box shall not be larger than necessary for the operation and maintenance of the valves and fittings and shall not be more than 3 ft (0.9 m) in depth. See Annex H.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.16",
+    "title": "Used underground tank installed above-ground",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank that has been used underground shall not be installed above-ground without inspection and testing to ensure compliance with the requirements for an above-ground tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.17",
+    "title": "Decommissioning",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When an underground tank is to be taken out of service, a) as much liquid propane as possible shall be removed through the tank liquid withdrawal connection; b) as much of the remaining propane vapour as possible shall be removed by means of a compressor or flaring, or both; c) the tank shall be purged with an inert gas to remove the remaining propane vapour; and d) the tank and piping shall be removed.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.18",
+    "title": "Filling capacity",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An underground storage tank shall not be filled in excess of 90% of the filling capacity.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.8.19",
+    "title": "Second-stage regulator location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A second-stage regulator that is to be used for underground tank installation shall be installed above-ground and protected as necessary from exposure to weather conditions.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9",
+    "title": "Discharge from tank relief valves",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9.1",
+    "title": "Discharge location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The discharge from any relief valve of a tank, except that of a tank located on a vehicle, shall not terminate in any building.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9.2",
+    "title": "Underground tank with a capacity greater than 2000 USWG (7500 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "On an underground tank with a capacity greater than 2000 USWG (7500 L), the discharge of a safety relief valve shall be piped vertically upward to a point at least 7 ft (2.1 m) above the ground and all underground tanks used in a container refill centre shall be piped vertically upward to a point at least 10 ft (3.0 m) above the ground.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9.3",
+    "title": "Underground tank with a capacity of 2000 USWG or less",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "On an underground tank with a capacity of 2000 USWG or less, the discharge of a safety relief valve and other vent devices or lines may be vented within the dome, housing, or curb box. The area of ventilation openings shall be at least equal to the combined discharge areas of the PRDs and other vent devices or lines that discharge into the dome, housing, or curb box.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9.4",
+    "title": "Tank of 125 USWG (475 L) capacity or less",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "On a tank of 125 USWG (475 L) capacity or less, the discharge from a relief valve shall be located not less than 3 ft (0.9 m) horizontally from any opening into a building below the level of such discharge.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.9.5",
+    "title": "Tank with a capacity greater than 125 USWG (475 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "On a tank with a capacity greater than 125 USWG (475 L), the discharge from a relief valve shall be vented vertically upwards and shall be unobstructed to the outdoors in such a manner as to prevent any impingement of propane upon any tank. A loose-fitting rain cap shall be used.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.10",
+    "title": "Location of consumer tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.10.1",
+    "title": "Tank location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Except as required in Clause 5.11 of this Code and Clause 5.4 of CSA B149.5, every tank shall be located outside of a building.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.10.2",
+    "title": "Location of above-ground tanks for consumer applications",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "An above-ground tank used in a consumer application shall be located in accordance with Table 7.4.\n\n[Table 7.4]\nTable 7.4 - Location of above-ground tanks for consumer applications\n(See Clauses 7.10.2, 7.10.3, and 9.3.2 and Annex M.)\n| Total aggregate water capacity, USWG (L) | Min. distance, ft (m), between tank and property line; and adjacent concrete or masonry building wall with no building openings within the specified clearances; or source of ignition* | Min. distance, ft (m), between tank and building wall of other than concrete or masonry construction | Min. distance, ft (m), between tank and building opening | Min. distance, ft (m), between tank and adjacent tank† |\n| --- | --- | --- | --- | --- |\n| Up to and including 125 (475) | None‡ | None | 3 (0.9) | None |\n| Over 125 (475) up to and including 1000 (3800) | 10 (3) | 10 (3) | 10 (3) | 3 (0.9) |\n| Over 1000 (3800) up to and including 2000 (7800) | 10 (3) | 25 (7.6) | 25 (7.6) | 3 (0.9) |\n| Over 2000 (7800) up to and including 5000 (19 000) | 15 (5) | 25 (7.6) | 25 (7.6) | 3 (0.9) |\n| Over 5000 (19 000) up to and including 10 000 (38 000) | 25 (7.6) | 25 (7.6) | 25 (7.6) | 3 (0.9) |\n| Over 10 000 (38 000) up to and including 30 000 (113 500) | 50 (15.2) | 50 (15.2) | 50 (15.2) | 5 (1.5) |\n| Over 30 000 (113 500) | § | § | § | § |\n* Distances to property lines may be amended by the authority having jurisdiction.\n† If tanks of a multiple tank installation are installed on a common concrete/steel base or pier, the clearances may be reduced to a 1/4 of the sum of diameters of the adjacent container.\n‡ 10 ft (3 m) from any source of ignition.\n§ At the discretion of the authority having jurisdiction.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.10.3",
+    "title": "Clearances for consumer tanks more than 125 USWG (475 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Notwithstanding the requirements in Clause 7.10.2, a) a maximum of four tanks, each less than 125 USWG (475 L), that are manifolded together to form a system may be located against a common wall of a building. Not more than one such manifold system may be located against a common wall of a building unless separated by a clearance of 10 ft (3 m); and b) when the single largest tank in a manifolded system is allowed in item a), the aggregate capacity is not used when determining the minimum distances between the tanks and a property line, a building, a building opening or a source of ignition. The largest single tank in the manifolded system shall be used to determine the distances required in Table 7.4.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.10.4",
+    "title": "Clearances for consumer tanks less than 125 USWG (475 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Notwithstanding the requirements in Clause 7.10.2, a) for capacities over 125 USWG (475 L) and up to and including 500 USWG (1900 L), the distance from a building wall may be reduced to 3 ft (1 m) for a single tank, provided that i) the building wall is of concrete or masonry construction; ii) there is a minimum of 10 ft (3 m) to the nearest building opening; and iii) the tank is used only for vapour service; and b) for capacities over 125 USWG (475 L) and up to and including 5000 USWG (19 000 L), the distances from a building wall of other than concrete or masonry construction may be reduced to the distances specified for concrete or masonry wall construction if protection acceptable to the authority having jurisdiction is provided.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11",
+    "title": "Tank supports",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11.1",
+    "title": "Tank flotation prevention",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Secure anchorage or sufficient pier height shall be provided for each tank to prevent flotation when high flood water can occur.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11.2",
+    "title": "Horizontal tank with a capacity of 2000 USWG (7500 L) or less",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A horizontal tank with a capacity of 2000 USWG (7500 L) or less shall a) be mounted on a maximum of two supports, and these supports shall be of noncombustible material in the form of piers, pads, saddles, blocks, steel beam skid rails, or concrete, each of sufficient strength to support the weight of the tank when filled to capacity with propane; b) not be installed with an individual block or pad at each leg of the tank; c) have the top of any support not less than 3 in (75 mm) above grade, and the clearances between the bottom of the tank and grade shall not be less than 6 in (150 mm); and d) be installed with a maximum distance of 30 in (750 mm) between the bottom of the tank and a concrete pad, slab, or grade.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11.3",
+    "title": "Vertical tank",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A vertical tank of 125 USWG (475 L) or less shall be installed in accordance with Clause 6.7.1. A vertical tank greater than 125 USWG (475 L) capacity shall be secured to a reinforced concrete base (see Figure B.2) that a) extends at least 1 ft (300 mm) from all sides of the tank surface of the pad and the above grade level; b) has footings located below the frost line that are designed to have a maximum bearing pressure on the soil of 2000 lb/ft2 (95 kPa); c) limits the distance between the bottom of the tank and the concrete pad to a maximum of 30 in (750 mm); and d) is subject to the approval of the authority having jurisdiction.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11.4",
+    "title": "Horizontal tank with a capacity greater than 2000 USWG (7500 L)",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A horizontal tank with a capacity greater than 2000 USWG (7500 L) shall a) be mounted on no more than two concrete saddles or piers; b) have footings located below the frost line that are designed for a maximum bearing pressure on the soil of not more than 2000 lb/ft2 (95 kPa); c) have corrosion protection provided on that portion of the tank in contact with concrete piers or saddles; and d) have a distance of not less than 24 in (600 mm) between the underside of the tank and the grade level.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.11.5",
+    "title": "Skid frame",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Notwithstanding the requirements in Clause 7.11.4, a horizontal tank with a capacity greater than 2000 USWG (7500 L) may be mounted on a skid frame, provided that a) the skid frame assembly is designed to accommodate anticipated loads; b) the skid frame assembly is installed on a concrete slab, foundation, or compacted base designed to accommodate static and dynamic loads imposed by the tank and skid frame; and c) steps are taken to allow for differential movement between any fixed piping and the skid frame assembly.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12",
+    "title": "Filling plants and refill centres",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.1",
+    "title": "Lighting",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Lighting shall be provided to illuminate the tank area, including control valves and other equipment, when loading or unloading is done during other than daylight hours.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.2",
+    "title": "Means of access",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Means of access for firefighting, using a fire extinguisher or fire department apparatus, shall be provided to the storage tank areas or buildings.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.3",
+    "title": "No smoking signs",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Prominently displayed \"NO SMOKING\" signs or symbols shall be installed at all entrances and points of transfer. Lettering shall be a minimum of 4 in (100 mm) high and shall be red on a white background. Symbols shall be a minimum of 7-1/2 in (190 mm) in diameter. Note: The equivalent French wording is \"DEFENSE DE FUMER\".",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.4",
+    "title": "Clearance from any drain, sewer, or pit",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank and its equipment shall be located not less than 25 ft (7.6 m) from any drain, sewer, or pit unless the drain, sewer, or pit is equipped with an automatic flammable vapour leak detection system.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.5",
+    "title": "Transfer connection location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Except at container refill centres, a tank truck or cargo liner transfer connection shall be located not less than a) 25 ft (7.6 m) from the line of adjoining property and any source of ignition; b) 10 ft (3 m) from any pump or compressor if housed in one or more separate buildings; c) 10 ft (3 m) from any storage tank; and d) 10 ft (3 m) from a common 2-hour fire-rated building.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.6",
+    "title": "Tank above another tank",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank shall not be installed above another tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.7",
+    "title": "Heavily populated or congested areas",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "In heavily populated or congested areas, the authority having jurisdiction may determine restrictions of individual tank capacity, total storage, distance to line of adjoining property, and other requirements.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.8",
+    "title": "Heating",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A container filling or storage building shall not contain a heating plant or any source of ignition and shall not be heated except by indirect means.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.9",
+    "title": "Transfer hoses",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A transfer hose used for loading or unloading a storage tank shall be disconnected from a cargo liner, tank truck, or tank car immediately after transfer operations have been completed. A cargo liner, tank truck, or tank car shall have all transfer hoses disconnected from an attendant is not present.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.10",
+    "title": "Transfer valves",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Transfer valves and the electrical system controlling the pumping equipment shall be turned off when not in use.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.11",
+    "title": "Signage",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Signage shall be prominently displayed on or adjacent to a tank and visible from the filling location, and shall display: \"NO SMOKING -- TURN OFF ALL SOURCES OF IGNITION\"* in red lettering that is a minimum of 2 in (50 mm) high on a white background, or recognized symbols for no smoking and no ignition that are a minimum of 4 in (100 mm) in diameter. For facilities where cylinders are filled, a sign shall be prominently displayed and be worded as follows: \"TRANSPORT CYLINDERS SECURED IN AN UPRIGHT POSITION IN A VENTILATED SPACE\"* in red lettering that is a minimum of 1 in (25 mm) high on a white background. Lettering shall be red on a white background. Note: The equivalent French wording is \"DEFENSE DE FUMER -- COUPER TOUTES LES SOURCES D'ALLUMAGE\" / \"TRANSPORTER LES BOUTEILLES EN POSITION VERTICALE DANS UN ENDROIT AERE\".",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.12",
+    "title": "Filling capacity sign",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A sign shall be prominently displayed on or adjacent to a tank and visible from the filling location, and shall be worded as follows: \"IT IS AN OFFENCE TO FILL PROPANE CYLINDERS AND MOTOR FUEL CONTAINERS IN EXCESS OF 80% CAPACITY BY VOLUME.\"* Lettering shall be a minimum of 1 in (25 mm) high and shall be red on a white background. Note: The equivalent French wording is \"IL EST INTERDIT DE REMPLIR LES BOUTEILLES DE PROPANE ET LES RESERVOIRS DE CARBURANT POUR MOTEURS A UNE CAPACITE DEPASSANT 80% DE LEUR CAPACITE TOTALE EN VOLUME.\"",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.13",
+    "title": "Differential movement",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "There shall be provision in the design of the installation of the tank and pumping equipment to permit differential movement.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.12.14",
+    "title": "Liquid withdrawal opening",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The liquid withdrawal opening shall be equipped with an internal safety control valve or an internal excess-flow valve with a remotely operated valve at the emergency shut-off type installed within 6 in (150 mm) of the excess-flow valve.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.13",
+    "title": "Electrical equipment at filling plants",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.13.1",
+    "title": "Electrical equipment classification",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Electrical wiring, equipment, and fixtures at filling plants (bulk plants) shall be classified in accordance with Table 7.6.\n\n[Table 7.6]\nTable 7.6 - Electrical classification\n(See Clauses 6.5.1.11, 6.5.1.12, 6.5.2.6.1, 7.13, 7.19.5, and 8.8.1.1.)\nThe values in this table are metric and are the standard. US customary is given for reference only.\n| Part | Location | Extent of hazardous location* | Group IIA hazardous location† |\n| --- | --- | --- | --- |\n| A | Storage containers other than cylinders and ASME vertical containers of less than 454 kg (1000 lb) water capacity | Within 4.5 m (15 ft) in all directions from connections, except connections otherwise covered in this table | Zone 2 |\n| B | Tank vehicle and tank car loading and unloading‡ | Within 3 m (10 ft) in all directions from connections regularly made or disconnected for product transfer | Zone 1 |\n| B |  | Beyond 3 m (10 ft) but within 7.5 m (25 ft) in all directions from a point where connections are regularly made or disconnected and within the cylindrical volume between the horizontal equator of the sphere and grade (See Figure F.1) | Zone 2 |\n| C | Gauge vent openings other than those on cylinders and ASME vertical containers of less than 454 kg (1000 lb) water capacity | Within 1.5 m (5 ft) in all directions from point of discharge | Zone 1 |\n| C |  | Beyond 1.5 m (5 ft) but within 4.5 m (15 ft) in all directions from point of discharge | Zone 2 |\n| D | Relief device discharge other than those on cylinders and ASME vertical containers of less than 454 kg (1000 lb) water capacity | Within the direct path of discharge | Zone 1 -- Note: Fixed electrical equipment should not be installed. |\n| D |  | Within 1.5 m (5 ft) in all directions from point of discharge | Zone 1 |\n| D |  | Beyond 1.5 m (5 ft) but within 4.5 m (15 ft) in all directions from point of discharge except within the direct path of discharge | Zone 2 |\n| E | Pumps, vapour compressors, gas/air mixers, and vaporizers (other than direct-fired or indirect-fired with an attached or adjacent gas-fired heat source) in one of the following conditions: a) indoors without ventilation; | Entire room and any adjacent room not separated by a gas-tight partition | Zone 1 |\n| E | a) indoors without ventilation; | Within 4.5 m (15 ft) of the exterior side of any exterior wall or roof that is not vapour-tight or within 4.5 m (15 ft) of any exterior opening (See Figure F.2) | Zone 2 |\n| E | b) indoors with adequate ventilation; or | Entire room and any adjacent room not separated by a gas-tight partition | Zone 2 |\n| E | c) outdoors in open air at or above grade. | Within 4.5 m (15 ft) in all directions from this equipment and within the cylindrical volume between the horizontal equator of the sphere and grade | Zone 2 |\n| F | Service station vehicle fuel dispenser units | Entire space within vehicle fuel dispenser enclosure, or up to a solid partition within the enclosure at any height above the base; the space within 450 mm (18 in) horizontally from the vehicle fuel dispenser enclosure up to 1.2 m (4 ft) above the base or to the height of a solid partition within the enclosure; entire pit or open space beneath the vehicle fuel dispenser | Zone 1 |\n| F |  | The space above a solid partition within the vehicle fuel dispenser enclosure; the space up to 450 mm (18 in) above grade within 6 m (20 ft) horizontally from any edge of the vehicle fuel dispenser enclosure | Zone 2 |\n| G | Pits or trenches containing, or located beneath propane gas valves, pumps, vapour compressors, regulators, and similar equipment -- a) without mechanical ventilation; or | Entire pit or trench | Zone 1 |\n| G | a) without mechanical ventilation; or | Entire room and any adjacent room not separated by a gas-tight partition | Zone 2 |\n| G | a) without mechanical ventilation; or | Within 4.5 m (15 ft) in all directions from pit or trench when located outdoors | Zone 2 |\n| G | b) with adequate mechanical ventilation. | Entire pit or trench | Zone 2 |\n| G | b) with adequate mechanical ventilation. | Entire room and any adjacent room not separated by a gas-tight partition | Zone 2 |\n| G | b) with adequate mechanical ventilation. | Within 4.5 m (15 ft) in all directions from pit or trench when located outdoors | Zone 2 |\n| H | Special buildings or rooms for storage of portable containers | Entire room | Zone 2 |\n| I | Pipelines and connections containing operational bleeds, drips, vents, or drains | Within 1.5 m (5 ft) in all directions from point of discharge | Zone 1 |\n| I |  | Beyond 1.5 m (5 ft) from point of discharge (extent of classified areas characterized as they are in Part E) | As shown in Part E, as applicable |\n| J | Container filling: a) indoors with adequate ventilation§; or | Within 1.5 m (5 ft) in all directions from connections regularly made or disconnected for product transfer | Zone 1 |\n| J | a) indoors with adequate ventilation§; or | Beyond 1.5 m (5 ft) and entire room | Zone 2 |\n| J | b) outdoors in open air. | Within 1.5 m (5 ft) in all directions from the dispensing hose inlet connections for product transfer | Zone 1 |\n| J | b) outdoors in open air. | Beyond 1.5 m (5 ft) but within 4.5 m (15 ft) in all directions from the dispensing hose inlet connections and within the cylindrical volume between the horizontal equator of the sphere and grade (See Figure F.3) | Zone 2 |\n| K | Outdoor cylinder storage: aggregate storage of propane -- a) up to and including 454 kg (1000 lb) water capacity; or | Within 1.5 m (5 ft) in all directions from connections | Zone 2 |\n| K | b) greater than 454 kg (1000 lb) water capacity. | Within 4.5 m (15 ft) in all directions from connections | Zone 2 |\n* The classified area shall not extend beyond an unpierced wall, roof, or solid vapour-tight partition.\n† See the Canadian Electrical Code, Part I, for definitions of classes, groups, and zones. Most of the flammable vapours and gases found within the facilities covered by this Code are classified as Group IIA.\n‡ When the extent of a hazardous area is being classified, consideration shall be given to possible variations in the locating of tank cars and tank vehicles at the unloading points and the effect these variations of locating may have on the point of connection.\n§ Where specified for the prevention of fire or explosion during normal operation, ventilation is considered adequate where provided in accordance with the provisions of this Code.\nNote 1) For additions to, modifications of, renovations to, or operation and maintenance of existing facilities employing the Division system of classification for Class I locations, the Division system of classification may continue in use.\nNote 2) When using the Division system, for the purpose of this table, the following minimum hazardous location classification substitution may be used: a) Class I, Division 1 = for areas classified Zone 1; and b) Class I, Division 2 = for areas classified Zone 2. Zone 1 rated equipment is not permitted in Division 1 locations; for additional information, see Canadian Electrical Code, Part I.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.14",
+    "title": "Storage of containers at filling plants",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.14.1",
+    "title": "Indoor cylinder storage",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A cylinder may be stored in a container filling and storage building that meets the requirements of Clause 7.17.3.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.14.2",
+    "title": "Container fenced area",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When stored outdoors, a container shall be inside the fenced area of a filling plant and shall a) be stored 25 ft (7.6 m) or more from a line of adjoining property; b) be stored not less than 4 ft (1 m) from the fence when the fence has openings greater than 2 x 2 in (50 x 50 mm), but may be stored alongside a fence when the fence has openings 2 x 2 in (50 x 50 mm) or smaller; and c) not be stored within 25 ft (7.6 m) of a filing plant storage tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.15",
+    "title": "Fencing of filling plants",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.15.1",
+    "title": "Fencing requirements",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A filling plant shall be enclosed with a fence constructed in accordance with Clauses 6.5.2.2 and 6.5.2.3. At least two gates through the fencing shall be provided, and the fence shall enclose and be located not less than 10 ft (3 m) from a) a container filling room or container filling location; b) any loading and unloading outlet for a cargo liner or tank truck; c) any pump or compressor; and d) any filing plant storage tank.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.16",
+    "title": "Location of tanks at filling plants and container refill centres",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.16.1",
+    "title": "Tank location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank shall be located in accordance with Table 7.5.\n\n[Table 7.5]\nTable 7.5 - Location of tanks at filling plants and container refill centres\n(See Clauses 7.16 and 7.19.1.1.)\n| Water capacity per tank, USWG (L) | Min. distance, ft (m), between tank and property line; adjacent concrete or masonry building wall with no building openings or windows within the specified clearances; or source of ignition | Min. distance, ft (m), between tank and building openings, windows, or building wall other than concrete or masonry | Min. distance, ft (m), between tank and adjacent tank* | Min. distance, ft (m), between tank and near side of main rail line† |\n| --- | --- | --- | --- | --- |\n| Up to and including 2000 (7500) | 10 (3) | 25 (7.6) | 3 (0.9) | 25 (7.6) |\n| Over 2000 (7500) up to and including 5000 (19 000) | 15 (5)‡ | 25 (7.6) | 3 (0.9) | 100 (30) |\n| Over 5000 (19 000) up to and including 10 000 (38 000) | 25 (7.6)‡ | 25 (7.6) | 3 (0.9) | 100 (30) |\n| Over 10 000 (38 000) up to and including 30 000 (113 550) | 50 (15.2)‡ | 50 (15.2) | 5 (1.5) | 100 (30) |\n| Over 30 000 (113 550) up to and including 70 000 (264 950) | 75 (22.5)‡ | 75 (22.5) | 1/4 of the sum of diameters of adjacent tanks | 100 (30) |\n| Over 70 000 (264 950) up to and including 90 000 (340 650) | 100 (30)‡ | 100 (30) | 1/4 of the sum of diameters of adjacent tanks | 100 (30) |\n| Over 90 000 (340 650) | 125 (37.5)‡ | 125 (37.5) | 1/4 of the sum of diameters of adjacent tanks | 100 (30) |\n* If tanks of a multiple tank installation are installed on a common base or pier, the clearance may be reduced at the discretion of the authority having jurisdiction.\n† Where applicable, the requirements of Clause 7.18.2 shall apply.\n‡ These distances are subject to the prior approval of the authority having jurisdiction, which may amend the spacing requirement.\nNote: A building does not include a container filling or storage building, a pump room, or a building housing an indirect vaporizer.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.17",
+    "title": "Container filling locations and buildings with provisions for container storage",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.17.1",
+    "title": "Location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A container filling location or building with provisions for container storage shall be located not less than a) 10 ft (3 m) from any tank; b) 25 ft (7.6 m) from a line of adjoining property; and c) 25 ft (7.6 m) from any source of ignition.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.17.2",
+    "title": "Pump and compressor location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A pump and compressor may be located in a container filling building, provided that this building is located in accordance with Clause 7.17.1 and constructed in accordance with Clause 7.17.3.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.17.3",
+    "title": "Building construction",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A container filling or storage building, a building containing a pump or a compressor shall a) be built of or covered with noncombustible materials, except that rafters, floor, and studs that are exposed to the interior may be of wood; b) be ventilated with openings to the outside air in at least two walls, exclusive of doors, at floor level and at or near the ceiling of the room equally on each of the two walls. Each opening shall have an opening to floor area ratio of not less than 1:600. These ventilation openings shall be not less than 10 ft (3 m) horizontally from any air intake of any appliance or air-moving equipment or any other opening into any building; c) have floor at or above grade. Any space below a floor shall be well ventilated and kept free of combustible material or the space shall be filled in with tamped earth; d) have two or more exits where the travel distance to an exit is more than 15 ft (4.5 m). Additional exits shall be provided when the distance between exits in the same wall is more than 75 ft (22.5 m): i) exit doors shall swing to open outward; and ii) any latch on an exit door shall be only of the magnetic or friction type; and e) have explosion relieving to the outdoors of not less than 1 ft2 (0.1 m2) for each 50 ft3 (1.4 m3) of building volume. The type of explosion relief venting shall be one of the following: i) an open area; ii) an outwardly opening sash; iii) an explosion-relief panel; or iv) single-strength glass.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.18",
+    "title": "Filling plants served by rail",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.18.1",
+    "title": "Located on private property",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a distribution location or filling plant is located on private property but served by rail, the requirements of Clause 7.16 shall apply in conjunction with the TC requirements for the siding and unloading tower.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.18.2",
+    "title": "Located on railway property",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a distributing location or filling plant is located on railway property, TC requirements shall apply.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.18.3",
+    "title": "Transfer of propane",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a filling plant is used for the transfer of propane from a rail car to tank truck, tank trailer, or cargo liner, it shall a) satisfy the requirements of Clauses 7.12 to 7.18 and 7.19.4; and b) be approved by the authority having jurisdiction.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19",
+    "title": "Container refill centres",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.1",
+    "title": "Location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A tank shall be located in accordance with Table 7.5.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.2",
+    "title": "Storage of containers",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A container refill centre shall meet the requirements of Clauses 6.5.1 and 6.5.2 if it is used for the storage of containers.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.3",
+    "title": "Aggregate capacity of tanks",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "The aggregate capacity of tanks installed in accordance with Clause 7.19 shall not exceed 5000 USWG (19 000 L).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.4",
+    "title": "Locked access",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A ventilated cabinet, an enclosure, or fencing used in conjunction with a tank shall be locked when unattended.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.5",
+    "title": "Service valve",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A service valve normally located under the dome of a tank shall a) have the outlet opening plugged unless it is to be used i) for vapour withdrawal service; or ii) as a connection for the pump bypass piping; and b) not be used for both vapour withdrawal service and as a connection for the pump bypass piping at the same time.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.6",
+    "title": "Fire extinguisher",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "At least one portable fire extinguisher of not less than 20-B:C rating shall be installed in a readily accessible location at a container refill centre.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.7",
+    "title": "Emergency shut-off",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A container refill centre shall be equipped with a clearly identified and readily accessible means to shut off the propane system and electrical power to the propane pump and propane dispenser during an emergency.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.1.8",
+    "title": "Kiosk doorway",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A kiosk doorway shall not be located within 10 ft (3 m) of any point of transfer it faces.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.2",
+    "title": "Fencing of container refill centres",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When protection for the primary valves and other transfer equipment of a tank is not provided by a cabinet or enclosure constructed in accordance with Clause 7.19.3, the tank shall be enclosed by fencing, constructed in accordance with Clause 6.5.2.2 or 6.5.2.3, which shall be located not less than 10 ft (3 m) from any point of transfer it faces.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.3",
+    "title": "Ventilated cabinets or enclosures",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "When a tank is used in conjunction with a ventilated cabinet or enclosure housing dispensing equipment, a) only its relief valves, gauging device, Schedule 80 bypass pipe, and filler valve shall be permitted to be located outside of the cabinet or enclosure; and b) the manually operated internal safety control valve shall provide a means to prevent closure of the cabinet door when the valve is open, except that an alternative means of shut-off may be used that ensures the internal safety control valve remains closed unless the propane dispenser's safety control valve is activated.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.4.1",
+    "title": "Post protection",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Posts used for the protection of a tank shall a) be spaced not more than 54 in (1350 mm) apart; b) be buried not less than 36 in (900 mm) below grade; c) extend at least 30 in (750 mm) above grade; and d) be one of the following: i) 4 in (100 mm) capped steel pipe; ii) 4 in (100 mm) capped fully filled with concrete; iii) 8 in (200 mm) pressure-treated wood, either square or round; or iv) 6 in (150 mm) minimum dimension reinforced concrete.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.4.2",
+    "title": "Guardrail location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Guardrails used for the protection of a tank shall be a) of the steel deep beam type, 12 x 162 in (300 x 4050 mm), supported by at least two 6 in (150 mm) minimum pressure-treated wooden posts or at least two W6X8.5 (W150X14) minimum galvanized I-beam steel posts buried not less than 36 in (900 mm) below grade and located not more than 75 in (1875 mm) apart, centre-to-centre, and the bottom of the beam shall be 18 in (450 mm) above grade; or b) of the reinforced concrete barrier type, commonly referred to as the New Jersey Turnpike barrier, not less than 30 in (750 mm) in height. See Figure G.1 for an illustration of a typical barrier such as Ontario Provincial Standard Drawing precast concrete barrier (OPSD-920.010 or 911 series) and the maximum spacing between the barriers shall not exceed 54 in (1380 mm).",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.4.3",
+    "title": "Post or guardrail location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Posts or guardrails used for the protection of a tank shall be located a) not less than 42 in (1080 mm) from all sides of the tank, ventilated cabinet, or enclosure; and b) to ensure that a minimum of 42 in (1080 mm) will be maintained between the point of transfer or cylinder-filling scale and any source of ignition.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.4.4",
+    "title": "Other barriers",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Barriers, other than those specified in Clauses 7.19.4.1 and 7.19.4.2, that provide an equivalent level of protection may be used. Equivalency may be demonstrated by physical testing or engineering analysis.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.4.5",
+    "title": "Buildings or sites under construction, repair, or renovation",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Protection of tanks used to supply propane to buildings or sites under construction, repair, or improvement may be accomplished by the installation of posts, guardrails, or reinforced concrete barriers as required in Clauses 7.19.4.1, 7.19.4.2, and 7.19.4.3 or by locating a) concrete castings, weighing at least 900 lb (410 kg) and not less than 30 in (750 mm) in height. Any opening between barriers shall not exceed 54 in (1350 mm); b) a continuous berm at a height a minimum of 36 in (900 mm); or c) other means of protection that are equivalent to the protection requirements of Clauses 7.19.4.1, 7.19.4.2, and 7.19.4.3 that are demonstrated by physical testing or engineering analysis. See Annex R for typical illustrations for distances between barriers and tanks.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.19.5",
+    "title": "Electrical equipment",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Electrical wiring, equipment, and fixtures located at a storage tank, filling building or area, pump, compressor, point of transfer, or similar location shall be classified in accordance with Table 7.6.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.20",
+    "title": "Dispensing system",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "7.20.1",
+    "title": "Dispensing system location",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A propane dispensing system shall be located at least a) 10 ft (3 m) from i) a property line; ii) a drainage basin or ditch; iii) any noncombustible building wall; and b) 25 ft (7.6 m) from a combustible building wall unless approved fire protection is provided.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.20.2",
+    "title": "Dispenser located on an island",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A propane dispenser or vehicle fuel dispenser located on an island shall be protected from damage with the use of posts a) as stipulated in Clause 7.19.4.1, items b) to d); and b) located to provide a minimum of i) 1 ft (300 mm) of clear space between the posts and the vehicle fuel dispenser; and ii) 42 in (1080 mm) of clear space between the posts and propane dispenser located on an island that incorporates a cylinder filling scale. As an alternative to items a) and b), a propane dispenser or vehicle fuel dispenser located on an island and protected by posts on a steel base shall be installed where the pump and the internal valve are interlocked so that the valve is closed when the pump is not running, and the ends of the island shall be protected with posts in accordance with Clause 7.19.4.1. The island shall be made of concrete and not less than 4 in (100 mm) high. When propane equipment is provided with a propane dispenser, a vent pipe shall be installed to discharge the vapours to a location at least 10 ft (3 m) from a source of ignition. Note: Water injection of vehicle equipment is not normally considered a source of ignition when the dispensing cone, provided that the engine and any source of ignition is turned off before and during the refuelling. The person who is filling or purging any propane container is responsible for ensuring that there is no source of ignition within 10 ft (3 m) measured horizontally.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.20.3",
+    "title": "Below grade piping system located on an island",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "A piping system, located below grade, from a tank to a propane dispenser located on an island shall be installed a) underground in accordance with the provisions of Clause 6.15 of CSA B149.1; or b) in a trough (e.g., as shown in Figure C.1 of this Code). Piping installed in the concrete trough shall be protected from corrosion and comply with the requirements of Clause 6 of CSA B149.1, with the exception of Clause 6.15.",
+    "type": "clause"
+  },
+  {
+    "clause": "7.20.4",
+    "title": "Internal safety control valve and shut-off device",
+    "section": "7",
+    "section_title": "Tank systems, filling plants, and refill centres",
+    "description": "Except as specified in Clause 7.19.3 b), and except when the dispensing system is activated, the internal safety control valve serving the propane or vehicle fuel dispenser shall remain closed. The propane or vehicle fuel dispenser and internal safety control valve shall be interlocked either electrically or pneumatically. Other means of shutting off the fuel system shall be used on the piping system serving the propane dispenser or vehicle fuel dispenser when closure of the internal safety control valve cannot interrupt other services. This shut-off device shall be located as close as practical to the tank and interlocked with the propane dispenser or vehicle fuel dispenser as above.",
+    "type": "clause"
+  },
+  {
+    "clause": "8.1",
+    "title": "General",
+    "section": "8",
+    "section_title": "Tank trucks, tank trailers, and cargo liners",
+    "description": "All tank trucks, tank trailers, and cargo liners shall be designed, fabricated, and marked in accordance with the requirements of CSA B620.",
+    "type": "clause"
+  },
+  {
+    "clause": "8.2",
+    "title": "Electrical equipment and lighting on tank trucks, tank trailers, and cargo liners",
+    "section": "8",
+    "section_title": "Tank trucks, tank trailers, and cargo liners",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "8.2.1",
+    "title": "Lighting",
+    "section": "8",
+    "section_title": "Tank trucks, tank trailers, and cargo liners",
+    "description": "A tank truck, tank trailer, or cargo liner shall not be equipped with illumination other than that from an electric source. Lighting circuits shall have overcurrent protection, and the wiring shall have sufficient current-carrying capacity to accommodate the electrical load. The wiring shall be secured, grommetted, and protected against damage.",
+    "type": "subclause"
+  },
+  {
+    "clause": "8.2.2",
+    "title": "Electrical equipment",
+    "section": "8",
+    "section_title": "Tank trucks, tank trailers, and cargo liners",
+    "description": "Electric motors, wiring, equipment, and fixtures enclosed in the cabinet shall conform with the provincial or territorial electrical code or the Canadian Electrical Code, Part I, for Class I, Zone 2, Group IIA hazardous locations.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1",
+    "title": "General",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "9.1.1",
+    "title": "Protection",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A vaporizer shall be protected against tampering and damage.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.2",
+    "title": "Tank heaters",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "Vaporizers that are designed to return heated propane to the storage container shall be considered tank heaters.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.3",
+    "title": "Building drain",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A building used to house a vaporizer shall not have a drain to a sewer or sump pit.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.4",
+    "title": "Building requirements",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A building or room used for propane vaporizing or mixing shall a) comply with the requirements of Clause 7.17.3, except that the floor of the building shall be built of noncombustible materials; and b) have all pressure relief valve discharges vented to the exterior and shall not terminate within 3 ft (0.9 m) of a ventilation opening unless the relief discharges vertically upward and is above the roof line.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.5",
+    "title": "Coil location",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "Heating or cooling coils shall not be installed inside a container.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.6",
+    "title": "Valves",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A vaporizer shall have a manually operated valve in each connection to a container.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.7",
+    "title": "Maximum pressure",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A vaporizer shall not raise the pressure in a container in excess of 215 psig (1.48 MPa).",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.8",
+    "title": "Liquid carryover",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A vaporizer shall be provided with suitable automatic means to prevent propane in the liquid phase from passing from the vaporizer to the vapour discharge piping.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.9",
+    "title": "Source of ignition",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "An open flame or other source of ignition shall not be permitted in a building housing a vaporizer unless the vaporizer is a direct-fired vaporizer.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.1.10",
+    "title": "Emergency shutdown",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "An emergency shutdown system shall be installed in any tank system supplying propane to a direct-fired vaporizer. The emergency shutdown system may be of the electrical, pneumatic, or mechanical type or a combination thereof and the means to activate the emergency shutdown system shall be located at least 25 ft (7.6 m) from the direct-fired vaporizer. The emergency shutdown system when activated shall initiate shut-off of the liquid line at the tank location that is connected to the vaporizer.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.2",
+    "title": "Indirect vaporizers",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "9.2.1",
+    "title": "Pressure vessel registration",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "An indirect vaporizer classified as a pressure vessel shall be designed, constructed, tested, and marked in accordance with CSA B51 and the regulations of the boiler and pressure vessel inspection authority of the province or territory in which it is installed.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.2.2",
+    "title": "Design working pressure",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "An indirect vaporizer with an inside diameter of 6 in (150 mm) or less that is exempted from the requirements of CSA B51 shall have a design working pressure of not less than 250 psig (1.72 MPa) and need not be permanently marked.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.3",
+    "title": "Direct-fired vaporizers",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "",
+    "type": "clause"
+  },
+  {
+    "clause": "9.3.1",
+    "title": "Location restrictions",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "Subject to Clause 9.3.4, a direct-fired vaporizer shall not be permitted in a pumphouse, a container filling or storage room, or in any other building or room.",
+    "type": "subclause"
+  },
+  {
+    "clause": "9.3.2",
+    "title": "Source of ignition",
+    "section": "9",
+    "section_title": "Vaporizers",
+    "description": "A direct-fired vaporizer is considered a source of ignition and shall be located at a distance in accordance with the requirements of Table 7.4 from any tank or from the fill points of any tank, and at least 25 ft (7.6 m) from a building or property line.",
+    "type": "subclause"
+  }
+]

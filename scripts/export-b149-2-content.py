@@ -2,7 +2,7 @@
 Export the audited B149.2-25 clause data from the Canadian Code Compass app
 into a master content folder mirroring the B149.1-25 Code Content layout.
 
-Source : apps/canadian-code-compass/data/b149-2-clauses.json (177 records, verbatim-accurate)
+Source : apps/canadian-code-compass/data/b149-2-clauses.json (303 records, verbatim-accurate)
 Target : C:/LocalProjects/content/kevin-hvac/CSA B149.2-25 Code Content/
 """
 import json
@@ -62,8 +62,9 @@ for r in data:
 EDITION_LINE = "CSA B149.2-25  Propane Storage and Handling Code (February 2025)"
 PROVENANCE = (
     "Source: extracted from the Canadian Code Compass app data set\n"
-    "(apps/canadian-code-compass/data/b149-2-clauses.json), which the\n"
-    "2026-06-01 audit verified verbatim-accurate against the dev-tools master.\n"
+    "(apps/canadian-code-compass/data/b149-2-clauses.json), verified\n"
+    "verbatim-accurate against the dev-tools master (2026-06-01 audit;\n"
+    "Section 7 completed 2026-06-10 from the post-sec7-fix master).\n"
     "Clause text is the code wording; no source PDF accompanies this export."
 )
 
